@@ -1,0 +1,149 @@
+$icomoon-font-family: "icomoon-tatical" !default;
+$icomoon-font-path: "/arquivos" !default;
+
+$iconfilter: "\e900";
+$iconclear: "\e901";
+$iconcheck: "\e902";
+$iconlist: "\e903";
+$icongrid: "\e904";
+$iconarrow-left: "\e905";
+$iconclose: "\e906";
+$iconyoutube: "\e907";
+$iconfacebook: "\e908";
+$icontwitter: "\e909";
+$iconinstagram: "\e90a";
+$iconarrow-right-long: "\e90b";
+$iconarrow-right: "\e90c";
+$iconplus: "\e90d";
+$iconsearch: "\e90e";
+$iconcart: "\e90f";
+$iconmenu: "\e910";
+
+@font-face {
+	font-family: '#{$icomoon-font-family}';
+	src: url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot.css?mitrlm2');
+	src: url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot.css?mitrlm2#iefix') format('embedded-opentype'),
+	url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf.css?mitrlm2') format('truetype'),
+	url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff.css?mitrlm2') format('woff'),
+	url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg.css?mitrlm2##{$icomoon-font-family}') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: '#{$icomoon-font-family}' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-filter {
+	&:before {
+		content: $iconfilter;
+	}
+}
+
+.icon-clear {
+	&:before {
+		content: $iconclear;
+	}
+}
+
+.icon-check {
+	&:before {
+		content: $iconcheck;
+	}
+}
+
+.icon-list {
+	&:before {
+		content: $iconlist;
+	}
+}
+
+.icon-grid {
+	&:before {
+		content: $icongrid;
+	}
+}
+
+.icon-arrow-left {
+	&:before {
+		content: $iconarrow-left;
+	}
+}
+
+.icon-close {
+	&:before {
+		content: $iconclose;
+	}
+}
+
+.icon-youtube {
+	&:before {
+		content: $iconyoutube;
+	}
+}
+
+.icon-facebook {
+	&:before {
+		content: $iconfacebook;
+	}
+}
+
+.icon-twitter {
+	&:before {
+		content: $icontwitter;
+	}
+}
+
+.icon-instagram {
+	&:before {
+		content: $iconinstagram;
+	}
+}
+
+.icon-arrow-right-long {
+	&:before {
+		content: $iconarrow-right-long;
+	}
+}
+
+.icon-arrow-right {
+	&:before {
+		content: $iconarrow-right;
+	}
+}
+
+.icon-plus {
+	&:before {
+		content: $iconplus;
+	}
+}
+
+.icon-search {
+	&:before {
+		content: $iconsearch;
+	}
+}
+
+.icon-cart {
+	&:before {
+		content: $iconcart;
+	}
+}
+
+.icon-menu {
+	&:before {
+		content: $iconmenu;
+	}
+}

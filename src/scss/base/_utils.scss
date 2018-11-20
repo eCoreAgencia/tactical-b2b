@@ -1,0 +1,316 @@
+@import '../mixins/pxtorem';
+
+
+// ==========================================================================
+// Variables
+// ==========================================================================
+
+$layout-module-size: 30px;
+$directions: top,
+right,
+bottom,
+left;
+
+
+// ==========================================================================
+// Colors
+// ==========================================================================
+
+@each $key,
+$value in $colors {
+
+  @each $value-key,
+  $value-name in $value {
+    @if $value-key==base {
+      %color-#{$key} {
+        color: $value-name
+      }
+
+      %background-color-#{$key} {
+        background-color: $value-name
+      }
+
+      %border-color-#{$key} {
+        border-color: $value-name
+      }
+    }
+
+    @else {
+      %color-#{$key}--#{$value-key} {
+        color: $value-name
+      }
+
+      %background-color-#{$key}--#{$value-key} {
+        background-color: $value-name
+      }
+
+      %border-color-#{$key}--#{$value-key} {
+        border-color: $value-name
+      }
+    }
+
+  }
+}
+
+
+%background-none {
+  background: none;
+}
+
+%background-color-transparent {
+  background-color: transparent;
+}
+
+
+
+
+
+// ==========================================================================
+// Text/Font
+// ==========================================================================
+
+@each $key,
+$value in $font-sizes {
+  %font-size--#{$key} {
+    @include font-size($value)
+  }
+}
+
+@each $font-name,
+$font-value in $fonts {
+  %font-family-#{$font-name} {
+    font-family: $font-value;
+  }
+}
+
+
+%bold {
+  font-weight: bold;
+}
+
+%no-bold {
+  font-weight: normal;
+}
+
+%italic {
+  font-style: italic;
+}
+
+%italic {
+  font-style: italic;
+}
+
+%no-italic {
+  font-style: normal;
+}
+
+%text-align-left {
+  text-align: left;
+}
+
+%text-align-center {
+  text-align: center;
+}
+
+%text-align-right {
+  text-align: right;
+}
+
+%text-align-justify {
+  text-align: justify;
+}
+
+%text-decoration-underline {
+  text-decoration: underline;
+}
+
+%text-decoration-line-through {
+  text-decoration: line-through;
+}
+
+%text-decoration-none {
+  text-decoration: none;
+}
+
+%text-transform-uppercase {
+  text-transform: uppercase;
+}
+
+%text-transform-capitalize {
+  text-transform: capitalize;
+}
+
+%text-transform-none {
+  text-transform: none;
+}
+
+
+
+// ==========================================================================
+// Position
+// ==========================================================================
+
+%position-absolute {
+  position: absolute;
+}
+
+%position-relative {
+  position: relative;
+}
+
+%position-fixed {
+  position: fixed;
+}
+
+%position-static {
+  position: static;
+}
+
+%no-border { border: none;}
+
+// ==========================================================================
+// Padding/Margin
+// ==========================================================================
+
+%no-padding {
+  padding: 0;
+}
+
+%no-margin {
+  margin: 0;
+}
+
+%default-padding {
+  padding: $layout-module-size;
+}
+
+%default-margin {
+  margin: $layout-module-size;
+}
+
+@each $direction in $directions {
+  %no-padding-#{$direction} {
+    padding-#{$direction}: 0;
+  }
+
+  %half-padding-#{$direction} {
+    padding-#{$direction}: $layout-module-size / 2;
+  }
+
+  %default-padding-#{$direction} {
+    padding-#{$direction}: $layout-module-size;
+  }
+
+  %double-padding-#{$direction} {
+    padding-#{$direction}: $layout-module-size * 2;
+  }
+
+  %no-margin-#{$direction} {
+    margin-#{$direction}: 0;
+  }
+
+  %half-margin-#{$direction} {
+    margin-#{$direction}: $layout-module-size / 2;
+  }
+
+  %default-margin-#{$direction} {
+    margin-#{$direction}: $layout-module-size;
+  }
+
+  %double-margin-#{$direction} {
+    margin-#{$direction}: $layout-module-size * 2;
+  }
+}
+
+// ==========================================================================
+// Flexbox
+// ==========================================================================
+
+%display-flex {
+  display: flex;
+}
+
+%display-block {
+  display: block;
+}
+
+%display-inline-block {
+  display: inline-block;
+}
+
+%display-table {
+  display: table;
+}
+
+%display-none {
+  display: none;
+}
+
+%flex-direction-row {
+  flex-direction: row;
+}
+
+%flex-direction-row-reverse {
+    flex-direction: row-reverse;
+  }
+
+%flex-direction-column {
+  flex-direction: column;
+}
+
+%flex-wrap-wrap {
+  flex-wrap: wrap;
+}
+
+%flex-wrap-wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
+%flex-wrap-nowrap {
+  flex-wrap: nowrap;
+}
+
+%flex-align-items-center {
+  align-items: center;
+}
+
+%flex-align-items-flex-start {
+  align-items: flex-start;
+}
+
+%flex-align-items-flex-end {
+  align-items: flex-end;
+}
+
+%flex-align-items-stretch {
+  align-items: stretch;
+}
+
+%flex-align-items-baseline {
+  align-items: baseline;
+}
+
+%flex-justify-content-center {
+  justify-content: center;
+}
+
+%flex-justify-content-flex-start {
+  justify-content: flex-start;
+}
+
+%flex-justify-content-flex-end {
+  justify-content: flex-end;
+}
+
+%flex-justify-content-space-around {
+  justify-content: space-around;
+}
+
+%flex-justify-content-space-between {
+  justify-content: space-between;
+}
+
+%flex-centered {
+  @extend %flex-align-items-center,
+  %flex-justify-content-center;
+}

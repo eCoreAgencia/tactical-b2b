@@ -1,0 +1,82 @@
+.not-found {
+	.banner {
+		&__desktop {
+			display: none;
+			@include atMedium {
+				display: block;
+			}
+		}
+		&__mobile {
+			display: block;
+			@include atMedium {
+				display: none;
+			}
+		}
+	}
+	&__content {
+		position: relative;
+		display: flex;
+		text-align: center;
+		flex-direction: column;
+		align-items: center;
+		margin-top: 85px;
+		margin-bottom: 50px;
+		@extend %font-family-trumpgothicwest;
+		@extend %text-transform-uppercase;
+		h2 {
+			margin: 0;
+			padding: 0;
+		}
+		@include atMedium {
+			margin-top: 105px;
+			margin-bottom: 131px;
+		}
+	}
+	&__tlt {
+		top: -105%;
+		position: absolute;
+		color: $c-orange;
+		font-size: 201px;
+		font-weight: 700;
+		letter-spacing: 12.18px;
+		margin: 0;
+		padding: 0;
+		line-height: 1em;
+		@include atMedium {
+			letter-spacing: 18.18px;
+			font-size: 300px;
+			top: -140%;
+		}
+	}
+	&__button {
+		color: $c-white;
+		@extend %font-family-unitedsans;
+		font-size: 16px;
+		font-weight: 800;
+		background: $c-orange;
+		width: 90%;
+		height: 45px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin-top: 30px;
+		text-decoration: none;
+		@include atMedium {
+			width: 350px;
+			margin-top: 48px;
+		}
+	}
+	&__txt {
+		margin: 0;
+		width: auto;
+		color: #372527;
+		font-size: 30px;
+		font-weight: 700;
+		font-weight: 700;
+		text-align: center;
+		@include atMedium {
+			font-size: 50px;
+			width: 576px;
+		}
+	}
+}

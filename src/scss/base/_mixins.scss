@@ -1,0 +1,61 @@
+@mixin atSmall {
+	@media (min-width: 320px) {
+		@content;
+	}
+}
+
+@mixin atMedium {
+	@media (min-width: 800px) {
+		@content;
+	}
+}
+
+@mixin atLarge {
+	@media (min-width: 1024px) {
+		@content;
+	}
+}
+
+@mixin atLarger {
+	@media (min-width: $g-max-width) {
+		@content;
+	}
+}
+
+@mixin truncate($truncation-boundary) {
+	max-width: $truncation-boundary;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+@function strip-unit($num) {
+	@return $num / ($num * 0 + 1);
+}
+
+@mixin rem-fallback($property, $values...) {
+	$max: length($values);
+	$pxValues: '';
+	$remValues: '';
+
+	@for $i from 1 through $max {
+		$value: strip-unit(nth($values, $i));
+		$pxValues: #{$pxValues + $value * 16}px;
+
+		@if $i < $max {
+			$pxValues: #{$pxValues + ' '};
+		}
+	}
+
+	@for $i from 1 through $max {
+		$value: strip-unit(nth($values, $i));
+		$remValues: #{$remValues + $value}rem;
+
+		@if $i < $max {
+			$remValues: #{$remValues + ' '};
+		}
+	}
+
+	#{$property}: $pxValues;
+	#{$property}: $remValues;
+}

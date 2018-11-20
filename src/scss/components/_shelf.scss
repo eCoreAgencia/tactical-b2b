@@ -1,0 +1,49 @@
+.shelf {
+	&--grid {
+		ul {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+			grid-template: 1fr 1fr;
+			list-style: none;
+			grid-gap: 20px;
+
+			@include atMedium {
+				display: block;
+			}
+		}
+		.price {
+			display: none;
+			@include atMedium {
+				display: block;
+			}
+		}
+
+		.prateleira {
+			padding: 0 25px;
+
+			@include atMedium {
+				padding: 0;
+			}
+		}
+		li {
+			display: none;
+			@include atMedium {
+				display: block;
+			}
+		}
+		li:nth-child(-n + 4) {
+			display: block;
+		}
+	}
+	&__button {
+		border: 0;
+		padding: 0;
+		background: none;
+	}
+}
+
+ul.slick-initialized.slick-slider {
+	display: flex;
+}
+
+

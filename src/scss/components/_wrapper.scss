@@ -1,0 +1,8 @@
+.wrapper {
+	&--mobile {
+		padding: 0 25px;
+		@include atMedium {
+			padding: 0;
+		}
+	}
+}

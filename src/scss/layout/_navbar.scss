@@ -1,0 +1,46 @@
+header {
+	.navbar {
+		background: none !important;
+	
+		&-item,
+		&-link {
+			color: #fff;
+	
+			&:hover {
+				background: none !important;
+			}
+	
+			&:after {
+				display: none !important;
+			}
+		}
+	
+		&-link {
+			font-size: 18px;
+			color: #fbf7f1;
+			font-weight: 700;
+			line-height: 56px;
+			letter-spacing: 0.9px;
+			text-transform: uppercase;
+		}
+	
+		&-dropdown {
+			min-width: 250%;
+			background: none;
+
+			&-column {
+				margin-right: 10px;
+				vertical-align: top;
+				display: inline-block;
+
+				&:last-of-type {
+					margin-right: 0;
+				}
+			}
+	
+			a.navbar-item {
+				color: #fff;
+			}
+		}
+	}
+}

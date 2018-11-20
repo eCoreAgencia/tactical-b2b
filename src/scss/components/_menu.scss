@@ -1,0 +1,118 @@
+.menu {
+	padding: 0;
+	list-style: none;
+
+	&__item {
+		&--dropdown {
+			&:hover {
+				.menu__submenu {
+					display: block;
+				}
+			}
+        }
+        
+        &--dropup {
+            .menu__link {
+                background-color: #e7e3e0;
+            }
+        }
+	}
+
+	&__link {
+		&:hover {
+			@extend %color-white;
+			@extend %text-decoration-none;
+		}
+	}
+
+	&__submenu {
+		@extend %position-absolute;
+		@extend %background-color-black--light;
+		top: 100%;
+		left: 0;
+		right: 0;
+		padding: 20px;
+		z-index: 11;
+	}
+}
+
+.navbar {
+	width: 100%;
+
+	.menu {
+		@extend %display-flex;
+		@extend %flex-justify-content-space-between;
+        @extend %no-margin;
+        
+       
+
+		&--mobile {
+            width: calc(100vw - 60px);
+            height: 100vh;
+            background-color: #ffffff;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+            position: relative;
+			@include mq(tablet) {
+				display: none;
+            }
+            .menu__item--highlight {
+                .menu__link {
+                    background-color: #fbf8f2;
+                    @extend %color-primary;
+                }
+            }
+		}
+
+		&--desktop {
+			@include mq(tablet, max) {
+				display: none;
+			}
+        }
+        
+        &--level {
+            flex-direction: column;
+           justify-content: flex-start !important;
+            .menu__link {
+                @extend %display-flex;
+                padding: 8px 16px;
+                line-height: 36px;
+                border-bottom: 2px solid #e8e7e5;
+                @include font-size(20px);
+            }
+
+            &.submenu {
+                left: -100%;
+                top: 52px;
+                z-index: 10;
+                height: 100%;
+                width: 100%;
+                position: absolute;
+                transition: all linear 0.3s;
+                background-color: #fff;
+                &.is-open {
+                    left: 0;
+                    right: 0;
+                }
+            }
+        }
+
+        &__item {
+            
+        }
+	}
+
+	.menu__submenu {
+		@extend %display-none;
+	}
+
+	.menu__link {
+		@extend %color-white;
+		@extend %font-family-unitedsanscondensed;
+		@extend %text-transform-uppercase;
+		color: #fff;
+		font-weight: 700;
+		@include font-size(18px);
+	}
+
+
+}

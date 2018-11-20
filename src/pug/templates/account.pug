@@ -1,0 +1,265 @@
+extends ../layouts/default.pug
+
+block vars
+  - var pageTitle = 'Minha Conta'
+  - var bodyClass = 'account'
+
+block head
+    link(rel="stylesheet", href="https://tactical.vteximg.com.br/arquivos/bootstrap.min.css")/
+    script(src='https://tactical.vteximg.com.br/arquivos/bootstrap.js')
+
+block content
+    section.section__page.section__account
+        .container
+            section.section__page.section__breadcrumb
+                +vtex-controller('<vtex.cmc:breadCrumb />')
+                .bread-crumb
+                    ul
+                        li
+                            a(href='/', rel='v:url', property='v:title') Home
+                        li
+                            a(href='/account', rel='v:url', property='v:title') Minha conta
+            h3.section__account__tlt MINHA CONTA
+            section.section__account__box
+                h6.section__account__box__tlt
+                article.section__account__box__txt Durante toda a sua navegação, você estará em um ambiente virtual 100% seguro, garantimos os padrões rígidos de segurança e confidencialidade a fim de proteger suas informações.
+            section.account__boxes.columns
+                .column.is-4
+                    .account__box
+                        +vtex-controller('<vtex.cmc:accountUserProfile />')
+                            .span4.profile-detail-display
+                                h4 Meus Dados
+                                h5 luiz.felipe@ecorecomunicacao.com
+                                p.profile-detail-display-email luiz.felipe@ecorecomunicacao.com
+                                p.edit.edit-profile-link
+                                    a#edit-data-link(data-toggle='modal', href='#editar-perfil') Alterar dados
+                                p.profile-detail-display-info
+                                    span.profile-detail-display-nickname
+                                    span.title Apelido: 
+                                    span.data n/d
+                                    br
+                                    span.profile-detail-display-cpf
+                                    span.title CPF: 
+                                    span.data n/d
+                                    br
+                                    span.profile-detail-display-date-of-birth
+                                    span.title Data de nascimento: 
+                                    span.data n/d
+                                    br
+                                    span.profile-detail-display-gender
+                                    span.title Sexo: 
+                                    span.data n/d
+                                    br
+                                    span.profile-detail-display-telephone
+                                    span.title Telefone: 
+                                    span.data n/d
+                                    br
+                                    span.profile-detail-display-cellphone
+                                    span.title Telefone Comercial: 
+                                    span.data n/d
+                            #editar-perfil.modal.hide.fade(aria-hidden='true', aria-labelledby='myModalLabel', role='dialog', tabindex='-1', style='display: none;')
+                                #response-message.modal-body(style='display: none;')
+                                #editar-perfil-conteudo
+                                    form#profile(name='profile', method='post', action='')
+                                    .modal-header
+                                        button.close(aria-hidden='true', data-dismiss='modal', type='button') ×
+                                        h3#myModalLabel Meu Perfil
+                                    .modal-body
+                                        .profile-detail-form
+                                        .row.profile-detail-form-personal-data
+                                            h5.span5 Dados pessoais
+                                            label#error.error(style='visibility: hidden; display: none;') *Campo obrigatório.
+                                            .control-group.form-personal-data-name.span
+                                            label.control-label(for='nome') Nome: 
+                                            .controls
+                                                input#firstName.span2(type='text', name='firstName', value='')
+                                            .control-group.form-personal-data-surname.span
+                                            label.control-label(for='sobrenome') Sobrenome: 
+                                            .controls
+                                                input#lastName.span2(type='text', name='lastName', value='')
+                                            .control-group.form-personal-data-nickname.span
+                                            label.control-label(for='apelido') Apelido: 
+                                            .controls
+                                                input#nickName.span2(type='text', name='nickName', value='')
+                                            .control-group.form-personal-data-cpf.span
+                                            label.control-label(for='cpf') CPF
+                                            .controls
+                                                input#document.span2(type='text', name='document', value='')
+                                            .control-group.form-personal-data-date-of-birth.span2
+                                            label.control-label(for='nascimento') Data de nascimento: 
+                                            .controls
+                                                input#birthDate.input-small(type='text', name='birthDate', value='')
+                                            .control-group.form-personal-data-gender.span
+                                            label.control-label Sexo: 
+                                            .controls
+                                                label.radio
+                                                input(type='radio', value='male', name='gender')
+                                                | Masculino
+                                                label.radio.gender-female-label
+                                                input(type='radio', value='female', name='gender')
+                                                | Feminino
+                                        #business-data.row.profile-detail-form-business-data
+                                            .control-group.form-contact-data-corporate-name.span5
+                                            label.control-label(for='corporateName') Razão Social: 
+                                            .controls
+                                                input#corporateName.span4(type='text', name='corporateName', value='')
+                                            .control-group.form-contact-data-fancy-name.span5
+                                            label.control-label(for='fancyName') Nome Fantasia: 
+                                            .controls
+                                                input#fancyName.span4(type='text', name='fancyName', value='')
+                                            .control-group.form-contact-data-business-document.span
+                                            label.control-label(for='businessDocument') CNPJ: 
+                                            .controls
+                                                input#businessDocument.span3(type='text', value='', name='businessDocument')
+                                            .control-group.form-contact-data-state-registration.span
+                                            label.control-label(for='stateRegistration') Inscrição Estadual: 
+                                            .controls
+                                                input#stateRegistration.span3(type='text', value='', name='stateRegistration')
+                                        .control-group.form-business-data-name
+                                            a#business-toggle(data='off', href='#') Incluir dados de pessoa jurídica
+                                        .row.profile-detail-form-contact-data
+                                            h5.span5 Dados de contato
+                                            .control-group.form-contact-data-email.span5
+                                            label.control-label(for='email') E-mail: 
+                                            .controls
+                                                input#email.span3(type='text', name='email', value='luiz.felipe@ecorecomunicacao.com')
+                                            .control-group.form-contact-data-telephone.span
+                                            label.control-label(for='telefone') Telefone: 
+                                            .controls
+                                                input#homePhone.span2(type='text', name='homePhone', value='')
+                                            .control-group.form-contact-data-cellphone.span
+                                            label.control-label(for='celular') Telefone Comercial: 
+                                            .controls
+                                                input#businessPhone.span2(type='text', name='businessPhone', value='')
+                                    .modal-footer.save-cancel-buttons
+                                        input#profile-submit.btn.btn-primary.profile(aria-hidden='true', type='submit', value='Salvar')
+                                        input#isCorporate(type='hidden', name='isCorporate', value='False')
+                                        input#userId(type='hidden', name='userId', value='d221ee23-bdb1-48e6-a8f3-e95f25bd6fad')
+                                        input#VTEXRequestVerificationToken(type='hidden', name='VTEXRequestVerificationToken', value='706e67c5f064448994d2a49c4fd39e83')
+                                        button.btn-link(data-dismiss='modal', type='button') Cancelar
+
+                .column.is-4
+                    .account__box
+                        +vtex-controller('<vtex.cmc:accountAddress/>')
+                            .span6.address-display-block
+                                h4 Meus Endereços
+                                p.new.new-address-link
+                                    a.address-update(data-toggle='modal', href='#address-edit', data-addressname='') Cadastrar novo endereço
+                                .row.address-display
+                                    .span3.address-display-unit
+                                    p Nenhum endereço cadastrado.
+                                #address-remove.modal.hide.fade(aria-hidden='true', aria-labelledby='myModalLabel', role='dialog', tabindex='-1')
+                                    #exclude.exclude
+                                    .modal-header
+                                        button.close(aria-hidden='true', data-dismiss='modal', type='button') ×
+                                        h3#myModalLabel.address-label Confirmar exclusão
+                                    .modal-body
+                                        label#exclude-message.control-label
+                                    .modal-footer.save-cancel-buttons
+                                        input#address-delete.btn.btn-primary(aria-hidden='true', type='submit', value='Excluir')
+                                        button.btn-link(data-dismiss='modal', type='button') Cancelar
+                                #address-edit.modal.hide.fade(aria-hidden='true', aria-labelledby='myModalLabel', role='dialog', tabindex='-1')
+                                    #accountAjaxBusy.load.loading(style='visibility: hidden;') Carregando...
+                                    form#form-address(name='form-address', action='', method='post')
+                                    .modal-header
+                                        button.close(aria-hidden='true', data-dismiss='modal', type='button') ×
+                                        h3#myModalLabel.address-label Cadastrar novo endereço
+                                    .modal-body
+                                        label#error.error(style='visibility: hidden; display: none;') *Campo obrigatório.
+                                        .address-form
+                                        .control-group.address-form-addressee
+                                            label.control-label(for='addressName')
+                                            | Identificação do endereço
+                                            span.obr *
+                                            | :
+                                            .controls
+                                            input#addressName.span3(type='text', name='addressName', value='')
+                                        .control-group.address-form-addressee
+                                            label.control-label(for='receiverName')
+                                            | Nome do destinatário
+                                            span.obr *
+                                            | :
+                                            .controls
+                                            input#receiverName.span3(type='text', name='receiverName', value='')
+                                        .control-group.address-form-address-type
+                                            label.control-label(for='addressType') Tipo de endereço: 
+                                            .controls
+                                            select#addressType.span3(name='addressType')
+                                                option(value='1', selected='') Residencial
+                                                option(value='0') Comercial
+                                        .control-group.address-form-cep
+                                            label.control-label(for='postalCode') CEP: 
+                                            .controls
+                                            input#postalCode.input-small(type='text', name='postalCode', value='')
+                                        .row
+                                            .span4
+                                            .control-group.address-form-street-name
+                                                label.control-label(for='street') Endereço: 
+                                                input#street.span4(type='text', name='street', value='')
+                                            .span1
+                                            .control-group.address-form-number
+                                                label.control-label(for='number') Número: 
+                                                input#number.span1(type='text', name='number', value='')
+                                        .row
+                                            .span3
+                                            .control-group.address-form-complement
+                                                label.control-label(for='complement') Complemento: 
+                                                input#complement.span3(type='text', name='complement', value='')
+                                            .span3
+                                            .control-group.address-form-reference
+                                                label.control-label(for='reference') Ponto de referência: 
+                                                input#reference.span3(type='text', name='reference', value='')
+                                        .control-group.address-form-neighborhood
+                                            label.control-label(for='neighborhood') Bairro: 
+                                            input#neighborhood.span3(type='text', name='neighborhood', value='')
+                                        .row
+                                            .control-group.span.address-form-state
+                                            label.control-label(for='state') Estado: 
+                                            .controls
+                                                select#state.span1(name='state')
+                                                    option(value='AC') AC
+                                                    option(value='AC') AC
+                                                    option(value='AL') AL
+                                                    option(value='AM') AM
+                                                    option(value='AP') AP
+                                                    option(value='BA') BA
+                                                    option(value='CE') CE
+                                                    option(value='DF') DF
+                                                    option(value='ES') ES
+                                                    option(value='GO') GO
+                                                    option(value='MA') MA
+                                                    option(value='MT') MT
+                                                    option(value='MS') MS
+                                                    option(value='MG') MG
+                                                    option(value='PA') PA
+                                                    option(value='PB') PB
+                                                    option(value='PR') PR
+                                                    option(value='PE') PE
+                                                    option(value='PI') PI
+                                                    option(value='RJ') RJ
+                                                    option(value='RN') RN
+                                                    option(value='RO') RO
+                                                    option(value='RS') RS
+                                                    option(value='RR') RR
+                                                    option(value='SC') SC
+                                                    option(value='SE') SE
+                                                    option(value='SP') SP
+                                                    option(value='TO') TO
+                                            .control-group.span.address-form-city
+                                            label.control-label(for='city') Cidade: 
+                                            .controls
+                                                input#city.span3(type='text', name='city', value='')
+                                    .modal-footer.save-cancel-buttons
+                                        input#form-submit.btn.btn-primary(aria-hidden='true', type='submit', value='Salvar')
+                                        button.btn-link(data-dismiss='modal', type='button') Cancelar
+                                        input#userId(type='hidden', name='userId', value='d221ee23-bdb1-48e6-a8f3-e95f25bd6fad')
+                                        input#addressId(type='hidden', name='addressId', value='')
+                                        input#country(type='hidden', name='country', value='BRA')
+
+                .column.is-4
+                    .account__box
+                        .span6.address-display-block
+                            h4 Meus Pedidos
+                        .account__box__orders
+                            a.account__box__orders__link(href='/account/orders') Ver meus Pedidos
+                            .account__box__orders__area Clique no link acima para acompanhar seus pedidos realizados.

@@ -1,0 +1,256 @@
+.minicart {
+	position: relative;
+
+	&__overlay {
+		width: 100vw;
+		height: 100vh;
+		position: fixed;
+		background-color: rgba(0, 0, 0, 0.7);
+		top: 0;
+		left: 0;
+		z-index: 50;
+		display: none;
+
+		.active & {
+			display: block;
+		}
+	}
+
+	&__container {
+		position: fixed;
+		top: 0;
+		right: 0;
+		height: 100vh;
+		background-color: $c-white;
+		width: 90%;
+		z-index: 60;
+		display: none;
+		flex-direction: column;
+		padding: 0 20px;
+		overflow: auto;
+		@include atMedium {
+			width: 400px;
+			overflow: hidden;
+			padding: 0 35px;
+		}
+
+		.active & {
+			display: flex;
+		}
+	}
+
+	&__header {
+		width: 100%;
+	}
+
+	&__handle {
+		border: none;
+		box-shadow: 0;
+		background-color: transparent;
+
+		.minicart__header & {
+			width: 100%;
+			display: flex;
+			align-items: center;
+			background-color: $c-white;
+			padding: 30px 0;
+			svg {
+				width: 10px;
+			}
+		}
+	}
+
+	&__footer {
+		margin-top: 40px;
+	}
+
+	&__title {
+		color: #e75300;
+		font-family: 'Roboto';
+		font-weight: 400;
+		@include font-size(17px);
+		margin: 0 auto 0 18px;
+	}
+
+	&__checkout {
+		display: flex;
+		width: 100%;
+		justify-content: center;
+		align-items: center;
+		text-transform: uppercase;
+		color: $c-white;
+		background-color: $c-orange;
+		text-align: center;
+		height: 45px;
+		padding: 20px;
+		color: #ffffff;
+		@extend %font-family-unitedsans;
+		font-size: 16px;
+		font-weight: 800;
+		text-decoration: none;
+		margin-bottom: 40px;
+	}
+
+	&__totals {
+		padding: 20px;
+		background-color: $c-primary;
+		text-transform: uppercase;
+		color: $c-white;
+		text-align: center;
+
+		&-text {
+			margin-right: 5px;
+		}
+
+		&-value {
+			color: $c-white;
+		}
+	}
+
+	&-product {
+		border-bottom: 1px solid #dcdcdc;
+		padding: 30px 0;
+		list-style: none;
+		&__image {
+			width: 100px;
+			height: 100px;
+			overflow: hidden;
+		}
+
+		&__info {
+			padding: 5px;
+			max-width: 210px;
+		}
+
+		&__name {
+			@include font-size(18px);
+			color: #211e14;
+			@extend %font-family-roboto;
+			font-weight: 700;
+			margin: 0 0 10px 0;
+		}
+
+		&__remove {
+			background-color: transparent;
+			border: none;
+			display: block;
+			color: #211e14;
+			@extend %font-family-unitedsans;
+			font-size: 13px;
+			font-weight: 800;
+			line-height: 17px;
+			text-transform: uppercase;
+			letter-spacing: 0.46px;
+			margin-top: 20px;
+		}
+		&__price {
+			color: #211e14;
+			@extend %font-family-unitedsans;
+			@include font-size(16px);
+			font-weight: 800;
+			text-transform: uppercase;
+			letter-spacing: 0.36px;
+
+			margin-bottom: 16px;
+		}
+		&__wrapper {
+			display: flex;
+		}
+	}
+
+	&__count {
+		display: flex;
+		align-items: center;
+
+		.icon-cart {
+			@include font-size(18px);
+			&:before {
+				content: "";
+				display: block;
+				width: 19px;
+				height: 18px;
+				background: url(/arquivos/icon-cart-png.png) no-repeat;
+			}
+		}
+
+		&-value {
+			@extend %color-primary;
+			margin-left: 10px;
+			font-size: 17px;
+			font-weight: 700;
+			letter-spacing: 0.34px;
+			position: relative;
+			color: #000;
+		}
+	}
+
+	&__icon {
+		margin-top: 6px;
+	}
+	&__review {
+		margin-bottom: 25px;
+		@include atMedium {
+			margin-bottom: 60px;
+		}
+	}
+
+	&__review-header {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		border-bottom: 3px solid #e8e7e5;
+	}
+	&__item-counter,
+	.minicart__item-qty {
+		@extend %font-family-unitedsans;
+		@include font-size(17px);
+		font-weight: 800;
+		line-height: 34px;
+		text-transform: uppercase;
+		letter-spacing: 0.4px;
+		@include atMedium {
+			@include font-size(18px);
+		}
+	}
+	&__item-counter {
+		color: #211e14;
+		margin-right: 5px;
+	}
+	&__item-qty {
+		color: #e75300;
+	}
+	&__dsp-total {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		margin-top: 20px;
+		flex-direction: column;
+		@include atMedium {
+			flex-direction: row;
+		}
+	}
+	&__dsp-txt {
+		color: #211e14;
+		@extend %font-family-roboto;
+		@include font-size(17px);
+		font-weight: 400;
+	}
+	&__dsp-number {
+		color: #211e14;
+		@extend %font-family-unitedsans;
+		@include font-size(16px);
+		font-weight: 800;
+		text-transform: uppercase;
+		letter-spacing: 0.36px;
+		margin-top: 4px;
+		@include atMedium {
+			margin-top: initial;
+		}
+	}
+	&__content {
+		@include atMedium {
+			height: 26rem;
+			overflow: auto;
+		}
+	}
+}

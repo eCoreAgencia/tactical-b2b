@@ -1,0 +1,2261 @@
+{
+  "categoryTree": [
+    {
+        "id": 1,
+        "name": "Category",
+        "hasChildren": false,
+        "url": "https://tactical.vtexcommercestable.com.br/category",
+        "children": [
+            {
+                "id": 2,
+                "name": "Masculino",
+                "hasChildren": false,
+                "url": "https://tactical.vtexcommercestable.com.br/category/masculino",
+                "children": [
+                    {
+                        "id": 3,
+                        "name": "Vestuário",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/masculino/vestuario",
+                        "children": [],
+                        "Title": "Vestuário Masculino | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 12,
+                        "name": "Calçados",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/masculino/calcados",
+                        "children": [],
+                        "Title": "Calçados Masculinos | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 16,
+                        "name": "Novidades",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/masculino/novidades",
+                        "children": [],
+                        "Title": "Novidades Masculinas | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 17,
+                        "name": "Sale",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/masculino/sale",
+                        "children": [],
+                        "Title": "Sale Masculino | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    }
+                ],
+                "Title": "Masculino | 5.11 Tactical",
+                "MetaTagDescription": ""
+            },
+            {
+                "id": 18,
+                "name": "Feminino",
+                "hasChildren": false,
+                "url": "https://tactical.vtexcommercestable.com.br/category/feminino",
+                "children": [
+                    {
+                        "id": 19,
+                        "name": "Vestuário",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/feminino/vestuario",
+                        "children": [],
+                        "Title": "Vestuário Feminino | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 27,
+                        "name": "Calçados",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/feminino/calcados",
+                        "children": [],
+                        "Title": "Calçados Femininos | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 31,
+                        "name": "Novidades",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/feminino/novidades",
+                        "children": [],
+                        "Title": "Novidades Femininas | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 32,
+                        "name": "Sale",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/feminino/sale",
+                        "children": [],
+                        "Title": "Sale Feminino | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    }
+                ],
+                "Title": "Feminino | 5.11 Tactical",
+                "MetaTagDescription": ""
+            },
+            {
+                "id": 33,
+                "name": "Acessórios",
+                "hasChildren": false,
+                "url": "https://tactical.vtexcommercestable.com.br/category/acessorios",
+                "children": [
+                    {
+                        "id": 34,
+                        "name": "Bandoleiras",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/acessorios/bandoleiras",
+                        "children": [],
+                        "Title": "Bandoleiras | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 35,
+                        "name": "Cachecol",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/acessorios/cachecol",
+                        "children": [],
+                        "Title": "Cachecol | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 36,
+                        "name": "Carteiras",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/acessorios/carteiras",
+                        "children": [],
+                        "Title": "Carteiras | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 37,
+                        "name": "Chapéus, Bonés e Toucas",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/acessorios/chapeus-bones-e-toucas",
+                        "children": [],
+                        "Title": "Chapéus, Bonés e Toucas | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 38,
+                        "name": "Cintos",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/acessorios/cintos",
+                        "children": [],
+                        "Title": "Cintos | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 39,
+                        "name": "Coldres",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/acessorios/coldres",
+                        "children": [],
+                        "Title": "Coldres | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 40,
+                        "name": "Coletes",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/acessorios/coletes",
+                        "children": [],
+                        "Title": "Coletes | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 41,
+                        "name": "Ferramentas",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/acessorios/ferramentas",
+                        "children": [],
+                        "Title": "Ferramentas | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 42,
+                        "name": "Lanternas",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/acessorios/lanternas",
+                        "children": [],
+                        "Title": "Lanternas | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 43,
+                        "name": "Luvas",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/acessorios/luvas",
+                        "children": [],
+                        "Title": "Luvas | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 44,
+                        "name": "Óculos",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/acessorios/oculos",
+                        "children": [],
+                        "Title": "Óculos | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 45,
+                        "name": "Patch",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/acessorios/patch",
+                        "children": [],
+                        "Title": "Patch | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 46,
+                        "name": "Novidades",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/acessorios/novidades",
+                        "children": [],
+                        "Title": "Novidades de Acessórios | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 47,
+                        "name": "Sale",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/acessorios/sale",
+                        "children": [],
+                        "Title": "Sale de Acessórios | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    }
+                ],
+                "Title": "Acessórios | 5.11 Tactical",
+                "MetaTagDescription": ""
+            },
+            {
+                "id": 48,
+                "name": "Bolsas e Mochilas",
+                "hasChildren": false,
+                "url": "https://tactical.vtexcommercestable.com.br/category/bolsas-e-mochilas",
+                "children": [
+                    {
+                        "id": 49,
+                        "name": "Bolsa de Mão",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/bolsas-e-mochilas/bolsa-de-mao",
+                        "children": [],
+                        "Title": "Bolsa de Mão | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 50,
+                        "name": "Bolsa de Ombro",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/bolsas-e-mochilas/bolsa-de-ombro",
+                        "children": [],
+                        "Title": "Bolsa de Ombro | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 51,
+                        "name": "Bolsa Transversal",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/bolsas-e-mochilas/bolsa-transversal",
+                        "children": [],
+                        "Title": "Bolsa Transversal | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 52,
+                        "name": "Mochilas",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/bolsas-e-mochilas/mochilas",
+                        "children": [],
+                        "Title": "Mochilas | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 53,
+                        "name": "Novidades",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/bolsas-e-mochilas/novidades",
+                        "children": [],
+                        "Title": "Novidades de Bolsas e Mochilas | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 54,
+                        "name": "Sale",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/bolsas-e-mochilas/sale",
+                        "children": [],
+                        "Title": "Sale de Bolsas e Mochilas | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    }
+                ],
+                "Title": "Bolsas e Mochilas | 5.11 Tactical",
+                "MetaTagDescription": ""
+            },
+            {
+                "id": 55,
+                "name": "Profissional",
+                "hasChildren": false,
+                "url": "https://tactical.vtexcommercestable.com.br/category/profissional",
+                "children": [
+                    {
+                        "id": 56,
+                        "name": "Policiais",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/profissional/policiais",
+                        "children": [],
+                        "Title": "Policiais | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 59,
+                        "name": "Bombeiros",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/profissional/bombeiros",
+                        "children": [],
+                        "Title": "Bombeiros | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 62,
+                        "name": "Novidades",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/profissional/novidades",
+                        "children": [],
+                        "Title": "Novidades Itens Profissionais | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    },
+                    {
+                        "id": 63,
+                        "name": "Sale",
+                        "hasChildren": false,
+                        "url": "https://tactical.vtexcommercestable.com.br/category/profissional/sale",
+                        "children": [],
+                        "Title": "Sale Itens Profissionais | 5.11 Tactical",
+                        "MetaTagDescription": ""
+                    }
+                ],
+                "Title": "Profissional | 5.11 Tactical",
+                "MetaTagDescription": ""
+            }
+        ],
+        "Title": "Category_Page_Title",
+        "MetaTagDescription": "Brief description of the category. It is advisable not to exceed 150 characters so that the search engines can show it correctly in the search results;"
+    }
+],
+  "searchAutoComplete": {
+    "itemsReturned": [{
+        "items": [
+
+        ],
+        "thumb": "",
+        "thumbUrl": null,
+        "name": "bomba em Bombas",
+        "href": "https://tactical.vtexcommercestable.com.br/bombas/bomba",
+        "criteria": "£bomba em Bombas¢/bombas/bomba"
+      },
+      {
+        "items": [{
+          "itemId": "77",
+          "name": "Bomba Auto Aspirante Periférica BPA500 1/2HP Intech Machine",
+          "nameComplete": "Bomba Auto Aspirante Periférica BPA500 1/2HP Intech Machine",
+          "imageUrl": "https://tactical.vteximg.com.br/arquivos/ids/155716-25-25/bomba-auto-aspirante-periferica-1-2hp-bivolt.jpg?v=636704661129030000"
+        }],
+        "thumb": "\u003cimg src=\"https://tactical.vteximg.com.br/arquivos/ids/155716-25-25/bomba-auto-aspirante-periferica-1-2hp-bivolt.jpg?v=636704661129030000\" width=\"25\" height=\"25\" alt=\"bomba-auto-aspirante-periferica-1-2hp-bivolt\" id=\"\" /\u003e",
+        "thumbUrl": "https://tactical.vteximg.com.br/arquivos/ids/155716-25-25/bomba-auto-aspirante-periferica-1-2hp-bivolt.jpg?v=636704661129030000",
+        "name": "bomba auto aspirante periférica bpa500 1/2hp intech machine",
+        "href": "https://tactical.vtexcommercestable.com.br/bomba-auto-aspirante-periferica-bpa500-1-2hp-intech-machine/p",
+        "criteria": null
+      },
+      {
+        "items": [{
+            "itemId": "23",
+            "name": "Bomba Periférica BP500 Intech Machine - 110v",
+            "nameComplete": "Bomba Periférica BP500 Intech Machine - 110v",
+            "imageUrl": "https://tactical.vteximg.com.br/arquivos/ids/155453-25-25/f4977dfb7c83397233803a73cae17ecd.jpg?v=636688095792900000"
+          },
+          {
+            "itemId": "24",
+            "name": "Bomba Periférica BP500 Intech Machine - 220v",
+            "nameComplete": "Bomba Periférica BP500 Intech Machine - 220v",
+            "imageUrl": "https://tactical.vteximg.com.br/arquivos/ids/155454-25-25/f4977dfb7c83397233803a73cae17ecd.jpg?v=636688095925230000"
+          }
+        ],
+        "thumb": "\u003cimg src=\"https://tactical.vteximg.com.br/arquivos/ids/155453-25-25/f4977dfb7c83397233803a73cae17ecd.jpg?v=636688095792900000\" width=\"25\" height=\"25\" alt=\"f4977dfb7c83397233803a73cae17ecd\" id=\"\" /\u003e",
+        "thumbUrl": "https://tactical.vteximg.com.br/arquivos/ids/155453-25-25/f4977dfb7c83397233803a73cae17ecd.jpg?v=636688095792900000",
+        "name": "bomba periférica bp500 intech machine",
+        "href": "https://tactical.vtexcommercestable.com.br/bomba-periferica-bp500-intech-machine/p",
+        "criteria": null
+      },
+      {
+        "items": [{
+            "itemId": "25",
+            "name": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+            "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+            "imageUrl": "https://tactical.vteximg.com.br/arquivos/ids/155455-25-25/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000"
+          },
+          {
+            "itemId": "26",
+            "name": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+            "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+            "imageUrl": "https://tactical.vteximg.com.br/arquivos/ids/155458-25-25/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000"
+          }
+        ],
+        "thumb": "\u003cimg src=\"https://tactical.vteximg.com.br/arquivos/ids/155455-25-25/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000\" width=\"25\" height=\"25\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" /\u003e",
+        "thumbUrl": "https://tactical.vteximg.com.br/arquivos/ids/155455-25-25/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000",
+        "name": "bomba pressurizadora bfl120 intech machine",
+        "href": "https://tactical.vtexcommercestable.com.br/bomba-pressurizadora-bfl120-intech-machine/p",
+        "criteria": null
+      }
+    ]
+  },
+  "products": [{
+      "productId": "53",
+      "productName": "Bomba Auto Aspirante Periférica BPA500 1/2HP Intech Machine",
+      "brand": "Intech Machine",
+      "linkText": "bomba-auto-aspirante-periferica-bpa500-1-2hp-intech-machine",
+      "productReference": "7798106375339",
+      "categoryId": "88",
+      "productTitle": "Bomba Auto Aspirante Periférica BPA500 1/2HP Intech Machine",
+      "metaTagDescription": "<p>Caracteristicas e Vantagens:</p><p>Possui difusor embutido, que elimina a entrada de ar na bomba mantendo um trabalho permanente e sem interrupção. Utililiza selo mecânico, rotor em bronze e rolamento blindado.&nbsp;</p><p>Juntamente de um corpo e tampa feito em alumínio. A bomba é bivolt, possuí chave seletora de voltagem.</p><p><br></p>",
+      "clusterHighlights": {
+        "137": "Todos"
+      },
+      "productClusters": {
+        "137": "Todos"
+      },
+      "searchableClusters": {
+        "137": "Todos"
+      },
+      "categories": [
+        "/Bombas/Bomba Periférica/",
+        "/Bombas/"
+      ],
+      "categoriesIds": [
+        "/4/88/",
+        "/4/"
+      ],
+      "link": "https://tactical.vtexcommercestable.com.br/bomba-auto-aspirante-periferica-bpa500-1-2hp-intech-machine/p",
+      "Frequência": [
+        "60hz"
+      ],
+      "Sucção Máxima": [
+        "7 mca"
+      ],
+      "Vazão Máxima": [
+        "38L/Min"
+      ],
+      "Consumo": [
+        "0,37kw/h"
+      ],
+      "Recalque de Sucção": [
+        "1’'x1''"
+      ],
+      "Temperatura": [
+        "Máxima de 80ºC"
+      ],
+      "Velocidade de Rotação": [
+        "3.450rpm"
+      ],
+      "Modelo": [
+        "BPA500"
+      ],
+      "Marca": [
+        "Intech Machine"
+      ],
+      "Alimentação": [
+        "Eletricidade"
+      ],
+      "Tensão": [
+        "Bivolt 110v e 220v"
+      ],
+      "Especificações": [
+        "Frequência",
+        "Sucção Máxima",
+        "Vazão Máxima",
+        "Consumo",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Velocidade de Rotação",
+        "Modelo",
+        "Marca",
+        "Alimentação",
+        "Tensão"
+      ],
+      "allSpecifications": [
+        "Frequência",
+        "Sucção Máxima",
+        "Vazão Máxima",
+        "Consumo",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Velocidade de Rotação",
+        "Modelo",
+        "Marca",
+        "Alimentação",
+        "Tensão"
+      ],
+      "description": "<p>Caracteristicas e Vantagens:</p><p>Possui difusor embutido, que elimina a entrada de ar na bomba mantendo um trabalho permanente e sem interrupção. Utililiza selo mecânico, rotor em bronze e rolamento blindado.&nbsp;</p><p>Juntamente de um corpo e tampa feito em alumínio. A bomba é bivolt, possuí chave seletora de voltagem.</p><p><br></p>",
+      "items": [{
+        "itemId": "77",
+        "name": "Bomba Auto Aspirante Periférica BPA500 1/2HP Intech Machine",
+        "nameComplete": "Bomba Auto Aspirante Periférica BPA500 1/2HP Intech Machine",
+        "complementName": "Bomba Auto Aspirante Periférica BPA500 1/2HP Intech Machine",
+        "ean": "7798106375339",
+        "referenceId": [{
+          "Key": "RefId",
+          "Value": "7798106375339"
+        }],
+        "measurementUnit": "un",
+        "unitMultiplier": 1,
+        "modalType": null,
+        "isKit": false,
+        "images": [{
+          "imageId": "155716",
+          "imageLabel": null,
+          "imageTag": "<img src=\"~/arquivos/ids/155716-#width#-#height#/bomba-auto-aspirante-periferica-1-2hp-bivolt.jpg?v=636704661129030000\" width=\"#width#\" height=\"#height#\" alt=\"bomba-auto-aspirante-periferica-1-2hp-bivolt\" id=\"\" />",
+          "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155716/bomba-auto-aspirante-periferica-1-2hp-bivolt.jpg?v=636704661129030000",
+          "imageText": "bomba-auto-aspirante-periferica-1-2hp-bivolt"
+        }],
+        "Voltagem": [
+          "Bivolt"
+        ],
+        "variations": [
+          "Voltagem"
+        ],
+        "sellers": [{
+          "sellerId": "1",
+          "sellerName": "tactical",
+          "addToCartLink": "https://tactical.vtexcommercestable.com.br/checkout/cart/add?sku=77&qty=1&seller=1&sc=1&price=22590&cv=f18bbb892563ba664ee1a765c6e9502e_&sc=1",
+          "sellerDefault": true,
+          "commertialOffer": {
+            "DeliverySlaSamplesPerRegion": {
+              "0": {
+                "DeliverySlaPerTypes": [],
+                "Region": null
+              }
+            },
+            "Installments": [{
+                "Value": 225.9,
+                "InterestRate": 0,
+                "TotalValuePlusInterestRate": 225.9,
+                "NumberOfInstallments": 1,
+                "PaymentSystemName": "American Express",
+                "PaymentSystemGroupName": "creditCardPaymentGroup",
+                "Name": "American Express à vista"
+              },
+              {
+                "Value": 225.9,
+                "InterestRate": 0,
+                "TotalValuePlusInterestRate": 225.9,
+                "NumberOfInstallments": 1,
+                "PaymentSystemName": "Visa",
+                "PaymentSystemGroupName": "creditCardPaymentGroup",
+                "Name": "Visa à vista"
+              },
+              {
+                "Value": 225.9,
+                "InterestRate": 0,
+                "TotalValuePlusInterestRate": 225.9,
+                "NumberOfInstallments": 1,
+                "PaymentSystemName": "Diners",
+                "PaymentSystemGroupName": "creditCardPaymentGroup",
+                "Name": "Diners à vista"
+              },
+              {
+                "Value": 225.9,
+                "InterestRate": 0,
+                "TotalValuePlusInterestRate": 225.9,
+                "NumberOfInstallments": 1,
+                "PaymentSystemName": "Mastercard",
+                "PaymentSystemGroupName": "creditCardPaymentGroup",
+                "Name": "Mastercard à vista"
+              },
+              {
+                "Value": 225.9,
+                "InterestRate": 0,
+                "TotalValuePlusInterestRate": 225.9,
+                "NumberOfInstallments": 1,
+                "PaymentSystemName": "Boleto Bancário",
+                "PaymentSystemGroupName": "bankInvoicePaymentGroup",
+                "Name": "Boleto Bancário à vista"
+              }
+            ],
+            "DiscountHighLight": [],
+            "GiftSkuIds": [],
+            "Teasers": [],
+            "BuyTogether": [],
+            "Price": 225.9,
+            "ListPrice": 225.9,
+            "PriceWithoutDiscount": 225.9,
+            "RewardValue": 0,
+            "PriceValidUntil": "4000-01-01T03:00:00Z",
+            "AvailableQuantity": 31,
+            "Tax": 0,
+            "DeliverySlaSamples": [{
+              "DeliverySlaPerTypes": [],
+              "Region": null
+            }],
+            "GetInfoErrorMessage": null,
+            "CacheVersionUsedToCallCheckout": "f18bbb892563ba664ee1a765c6e9502e_"
+          }
+        }]
+      }]
+    },
+    {
+      "productId": "20",
+      "productName": "Bomba Periférica BP500 Intech Machine",
+      "brand": "Intech Machine",
+      "linkText": "bomba-periferica-bp500-intech-machine",
+      "productReference": "134606",
+      "categoryId": "88",
+      "productTitle": "Bomba Periférica BP500 Intech Machine",
+      "metaTagDescription": "<p>Ideal para transferência de água limpa e isenta de sólidos como: cisternas, rios e reservatórios, no abastecimento de residências, indústrias e no campo em pequenas irrigações.&nbsp;</p><p>Sucção máxima de até 8 metros de profundidade.</p><p>- Vazão máxima de até 2.352 litros / hora.</p><p>- Rolamento DDU</p><p>- Utiliza selo Mecânico</p><p>- Corpo e tampa em alumínio</p><p>- Usa tubulações de PVC</p><p>- Fácil instalação</p><p><br></p>",
+      "clusterHighlights": {
+        "137": "Todos"
+      },
+      "productClusters": {
+        "137": "Todos"
+      },
+      "searchableClusters": {
+        "137": "Todos"
+      },
+      "categories": [
+        "/Bombas/Bomba Periférica/",
+        "/Bombas/"
+      ],
+      "categoriesIds": [
+        "/4/88/",
+        "/4/"
+      ],
+      "link": "https://tactical.vtexcommercestable.com.br/bomba-periferica-bp500-intech-machine/p",
+      "Potência do Motor": [
+        "1/2 HP - 0,37 KW"
+      ],
+      "Sucção Máxima": [
+        "8 Metros"
+      ],
+      "Vazão Máxima": [
+        "33 Litros/Minutos"
+      ],
+      "Temperatura da Água": [
+        "40º C"
+      ],
+      "Velocidade de Rotação": [
+        "n0=3450/Minuto"
+      ],
+      "Modelo": [
+        "BP500"
+      ],
+      "Marca": [
+        "Intech Machine"
+      ],
+      "Tensão": [
+        "110v ou 220v"
+      ],
+      "Peso": [
+        "4,500kg"
+      ],
+      "Especificações": [
+        "Potência do Motor",
+        "Sucção Máxima",
+        "Vazão Máxima",
+        "Temperatura da Água",
+        "Velocidade de Rotação",
+        "Modelo",
+        "Marca",
+        "Tensão",
+        "Peso"
+      ],
+      "allSpecifications": [
+        "Potência do Motor",
+        "Sucção Máxima",
+        "Vazão Máxima",
+        "Temperatura da Água",
+        "Velocidade de Rotação",
+        "Modelo",
+        "Marca",
+        "Tensão",
+        "Peso"
+      ],
+      "description": "<p>Ideal para transferência de água limpa e isenta de sólidos como: cisternas, rios e reservatórios, no abastecimento de residências, indústrias e no campo em pequenas irrigações.&nbsp;</p><p>Sucção máxima de até 8 metros de profundidade.</p><p>- Vazão máxima de até 2.352 litros / hora.</p><p>- Rolamento DDU</p><p>- Utiliza selo Mecânico</p><p>- Corpo e tampa em alumínio</p><p>- Usa tubulações de PVC</p><p>- Fácil instalação</p><p><br></p>",
+      "items": [{
+          "itemId": "23",
+          "name": "Bomba Periférica BP500 Intech Machine - 110v",
+          "nameComplete": "Bomba Periférica BP500 Intech Machine - 110v",
+          "complementName": "Bomba Periférica BP500 Intech Machine",
+          "ean": "7798106353689",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7798106353689"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+            "imageId": "155453",
+            "imageLabel": null,
+            "imageTag": "<img src=\"~/arquivos/ids/155453-#width#-#height#/f4977dfb7c83397233803a73cae17ecd.jpg?v=636688095792900000\" width=\"#width#\" height=\"#height#\" alt=\"f4977dfb7c83397233803a73cae17ecd\" id=\"\" />",
+            "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155453/f4977dfb7c83397233803a73cae17ecd.jpg?v=636688095792900000",
+            "imageText": "f4977dfb7c83397233803a73cae17ecd"
+          }],
+          "Voltagem": [
+            "110V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "tactical",
+            "addToCartLink": "https://tactical.vtexcommercestable.com.br/checkout/cart/add?sku=23&qty=1&seller=1&sc=1&price=11590&cv=f4eee37c7c2fa56a12a4c70cdc3634ec_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {
+                "0": {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              },
+              "Installments": [{
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express à vista"
+                },
+                {
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa à vista"
+                },
+                {
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Diners",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Diners à vista"
+                },
+                {
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard à vista"
+                },
+                {
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Boleto Bancário",
+                  "PaymentSystemGroupName": "bankInvoicePaymentGroup",
+                  "Name": "Boleto Bancário à vista"
+                }
+              ],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 115.9,
+              "ListPrice": 127,
+              "PriceWithoutDiscount": 115.9,
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 30,
+              "Tax": 0,
+              "DeliverySlaSamples": [{
+                "DeliverySlaPerTypes": [],
+                "Region": null
+              }],
+              "GetInfoErrorMessage": null,
+              "CacheVersionUsedToCallCheckout": "f4eee37c7c2fa56a12a4c70cdc3634ec_"
+            }
+          }]
+        },
+        {
+          "itemId": "24",
+          "name": "Bomba Periférica BP500 Intech Machine - 220v",
+          "nameComplete": "Bomba Periférica BP500 Intech Machine - 220v",
+          "complementName": "Bomba Periférica BP500 Intech Machine",
+          "ean": "7768106335565",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7768106335565"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+            "imageId": "155454",
+            "imageLabel": null,
+            "imageTag": "<img src=\"~/arquivos/ids/155454-#width#-#height#/f4977dfb7c83397233803a73cae17ecd.jpg?v=636688095925230000\" width=\"#width#\" height=\"#height#\" alt=\"f4977dfb7c83397233803a73cae17ecd\" id=\"\" />",
+            "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155454/f4977dfb7c83397233803a73cae17ecd.jpg?v=636688095925230000",
+            "imageText": "f4977dfb7c83397233803a73cae17ecd"
+          }],
+          "Voltagem": [
+            "220V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "tactical",
+            "addToCartLink": "https://tactical.vtexcommercestable.com.br/checkout/cart/add?sku=24&qty=1&seller=1&sc=1&price=11590&cv=f4eee37c7c2fa56a12a4c70cdc3634ec_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {
+                "0": {
+                  "DeliverySlaPerTypes": [],
+                  "Region": null
+                }
+              },
+              "Installments": [{
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "American Express",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "American Express à vista"
+                },
+                {
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Visa",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Visa à vista"
+                },
+                {
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Diners",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Diners à vista"
+                },
+                {
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Mastercard",
+                  "PaymentSystemGroupName": "creditCardPaymentGroup",
+                  "Name": "Mastercard à vista"
+                },
+                {
+                  "Value": 115.9,
+                  "InterestRate": 0,
+                  "TotalValuePlusInterestRate": 115.9,
+                  "NumberOfInstallments": 1,
+                  "PaymentSystemName": "Boleto Bancário",
+                  "PaymentSystemGroupName": "bankInvoicePaymentGroup",
+                  "Name": "Boleto Bancário à vista"
+                }
+              ],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 115.9,
+              "ListPrice": 127,
+              "PriceWithoutDiscount": 115.9,
+              "RewardValue": 0,
+              "PriceValidUntil": "4000-01-01T03:00:00Z",
+              "AvailableQuantity": 31,
+              "Tax": 0,
+              "DeliverySlaSamples": [{
+                "DeliverySlaPerTypes": [],
+                "Region": null
+              }],
+              "GetInfoErrorMessage": null,
+              "CacheVersionUsedToCallCheckout": "f4eee37c7c2fa56a12a4c70cdc3634ec_"
+            }
+          }]
+        }
+      ]
+    },
+    {
+      "productId": "21",
+      "productName": "Bomba Pressurizadora BFL120 Intech Machine",
+      "brand": "Intech Machine",
+      "linkText": "bomba-pressurizadora-bfl120-intech-machine",
+      "productReference": "271112",
+      "categoryId": "86",
+      "productTitle": "Bomba Pressurizadora BFL120 Intech Machine",
+      "metaTagDescription": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "clusterHighlights": {
+        "137": "Todos"
+      },
+      "productClusters": {
+        "137": "Todos"
+      },
+      "searchableClusters": {
+        "137": "Todos"
+      },
+      "categories": [
+        "/Bombas/Bomba Pressurizadora/",
+        "/Bombas/"
+      ],
+      "categoriesIds": [
+        "/4/86/",
+        "/4/"
+      ],
+      "link": "https://tactical.vtexcommercestable.com.br/bomba-pressurizadora-bfl120-intech-machine/p",
+      "Frequência": [
+        "60 HZ"
+      ],
+      "Chave de Controle": [
+        "3 Posições (\"Off\", \"Auto\" e \"Manual\")"
+      ],
+      "Pressão de Funcionamento": [
+        "9 mca"
+      ],
+      "Vazão Máxima": [
+        "1600 L/H"
+      ],
+      "Recalque de Sucção": [
+        "3/4\""
+      ],
+      "Temperatura": [
+        "Máxima da água 60ºC"
+      ],
+      "Modelo": [
+        "BF120"
+      ],
+      "Marca": [
+        "Intech Machine"
+      ],
+      "Tensão": [
+        "110v ou 220v"
+      ],
+      "Especificações": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "allSpecifications": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "description": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "items": [{
+          "itemId": "25",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332155"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155455",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155455-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155455/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155456",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155456-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155456/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155457",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155457-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155457/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "110V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "tactical",
+            "addToCartLink": "https://tactical.vtexcommercestable.com.br/checkout/cart/add?sku=25&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 110v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        },
+        {
+          "itemId": "26",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332162"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155458",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155458-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155458/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155459",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155459-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155459/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155460",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155460-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155460/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "220V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "tactical",
+            "addToCartLink": "https://tactical.vtexcommercestable.com.br/checkout/cart/add?sku=26&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 220v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        }
+      ]
+    },
+    {
+      "productId": "21",
+      "productName": "Bomba Pressurizadora BFL120 Intech Machine",
+      "brand": "Intech Machine",
+      "linkText": "bomba-pressurizadora-bfl120-intech-machine",
+      "productReference": "271112",
+      "categoryId": "86",
+      "productTitle": "Bomba Pressurizadora BFL120 Intech Machine",
+      "metaTagDescription": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "clusterHighlights": {
+        "137": "Todos"
+      },
+      "productClusters": {
+        "137": "Todos"
+      },
+      "searchableClusters": {
+        "137": "Todos"
+      },
+      "categories": [
+        "/Bombas/Bomba Pressurizadora/",
+        "/Bombas/"
+      ],
+      "categoriesIds": [
+        "/4/86/",
+        "/4/"
+      ],
+      "link": "https://tactical.vtexcommercestable.com.br/bomba-pressurizadora-bfl120-intech-machine/p",
+      "Frequência": [
+        "60 HZ"
+      ],
+      "Chave de Controle": [
+        "3 Posições (\"Off\", \"Auto\" e \"Manual\")"
+      ],
+      "Pressão de Funcionamento": [
+        "9 mca"
+      ],
+      "Vazão Máxima": [
+        "1600 L/H"
+      ],
+      "Recalque de Sucção": [
+        "3/4\""
+      ],
+      "Temperatura": [
+        "Máxima da água 60ºC"
+      ],
+      "Modelo": [
+        "BF120"
+      ],
+      "Marca": [
+        "Intech Machine"
+      ],
+      "Tensão": [
+        "110v ou 220v"
+      ],
+      "Especificações": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "allSpecifications": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "description": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "items": [{
+          "itemId": "25",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332155"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155455",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155455-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155455/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155456",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155456-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155456/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155457",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155457-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155457/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "110V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "tactical",
+            "addToCartLink": "https://tactical.vtexcommercestable.com.br/checkout/cart/add?sku=25&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 110v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        },
+        {
+          "itemId": "26",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332162"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155458",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155458-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155458/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155459",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155459-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155459/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155460",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155460-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155460/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "220V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "tactical",
+            "addToCartLink": "https://tactical.vtexcommercestable.com.br/checkout/cart/add?sku=26&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 220v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        }
+      ]
+    },
+    {
+      "productId": "21",
+      "productName": "Bomba Pressurizadora BFL120 Intech Machine",
+      "brand": "Intech Machine",
+      "linkText": "bomba-pressurizadora-bfl120-intech-machine",
+      "productReference": "271112",
+      "categoryId": "86",
+      "productTitle": "Bomba Pressurizadora BFL120 Intech Machine",
+      "metaTagDescription": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "clusterHighlights": {
+        "137": "Todos"
+      },
+      "productClusters": {
+        "137": "Todos"
+      },
+      "searchableClusters": {
+        "137": "Todos"
+      },
+      "categories": [
+        "/Bombas/Bomba Pressurizadora/",
+        "/Bombas/"
+      ],
+      "categoriesIds": [
+        "/4/86/",
+        "/4/"
+      ],
+      "link": "https://tactical.vtexcommercestable.com.br/bomba-pressurizadora-bfl120-intech-machine/p",
+      "Frequência": [
+        "60 HZ"
+      ],
+      "Chave de Controle": [
+        "3 Posições (\"Off\", \"Auto\" e \"Manual\")"
+      ],
+      "Pressão de Funcionamento": [
+        "9 mca"
+      ],
+      "Vazão Máxima": [
+        "1600 L/H"
+      ],
+      "Recalque de Sucção": [
+        "3/4\""
+      ],
+      "Temperatura": [
+        "Máxima da água 60ºC"
+      ],
+      "Modelo": [
+        "BF120"
+      ],
+      "Marca": [
+        "Intech Machine"
+      ],
+      "Tensão": [
+        "110v ou 220v"
+      ],
+      "Especificações": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "allSpecifications": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "description": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "items": [{
+          "itemId": "25",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332155"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155455",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155455-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155455/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155456",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155456-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155456/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155457",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155457-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155457/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "110V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "tactical",
+            "addToCartLink": "https://tactical.vtexcommercestable.com.br/checkout/cart/add?sku=25&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 110v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        },
+        {
+          "itemId": "26",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332162"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155458",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155458-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155458/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155459",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155459-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155459/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155460",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155460-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155460/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "220V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "tactical",
+            "addToCartLink": "https://tactical.vtexcommercestable.com.br/checkout/cart/add?sku=26&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 220v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        }
+      ]
+    },
+    {
+      "productId": "21",
+      "productName": "Bomba Pressurizadora BFL120 Intech Machine",
+      "brand": "Intech Machine",
+      "linkText": "bomba-pressurizadora-bfl120-intech-machine",
+      "productReference": "271112",
+      "categoryId": "86",
+      "productTitle": "Bomba Pressurizadora BFL120 Intech Machine",
+      "metaTagDescription": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "clusterHighlights": {
+        "137": "Todos"
+      },
+      "productClusters": {
+        "137": "Todos"
+      },
+      "searchableClusters": {
+        "137": "Todos"
+      },
+      "categories": [
+        "/Bombas/Bomba Pressurizadora/",
+        "/Bombas/"
+      ],
+      "categoriesIds": [
+        "/4/86/",
+        "/4/"
+      ],
+      "link": "https://tactical.vtexcommercestable.com.br/bomba-pressurizadora-bfl120-intech-machine/p",
+      "Frequência": [
+        "60 HZ"
+      ],
+      "Chave de Controle": [
+        "3 Posições (\"Off\", \"Auto\" e \"Manual\")"
+      ],
+      "Pressão de Funcionamento": [
+        "9 mca"
+      ],
+      "Vazão Máxima": [
+        "1600 L/H"
+      ],
+      "Recalque de Sucção": [
+        "3/4\""
+      ],
+      "Temperatura": [
+        "Máxima da água 60ºC"
+      ],
+      "Modelo": [
+        "BF120"
+      ],
+      "Marca": [
+        "Intech Machine"
+      ],
+      "Tensão": [
+        "110v ou 220v"
+      ],
+      "Especificações": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "allSpecifications": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "description": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "items": [{
+          "itemId": "25",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332155"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155455",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155455-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155455/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155456",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155456-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155456/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155457",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155457-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155457/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "110V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "tactical",
+            "addToCartLink": "https://tactical.vtexcommercestable.com.br/checkout/cart/add?sku=25&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 110v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        },
+        {
+          "itemId": "26",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332162"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155458",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155458-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155458/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155459",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155459-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155459/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155460",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155460-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155460/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "220V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "tactical",
+            "addToCartLink": "https://tactical.vtexcommercestable.com.br/checkout/cart/add?sku=26&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 220v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        }
+      ]
+    },
+    {
+      "productId": "21",
+      "productName": "Bomba Pressurizadora BFL120 Intech Machine",
+      "brand": "Intech Machine",
+      "linkText": "bomba-pressurizadora-bfl120-intech-machine",
+      "productReference": "271112",
+      "categoryId": "86",
+      "productTitle": "Bomba Pressurizadora BFL120 Intech Machine",
+      "metaTagDescription": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "clusterHighlights": {
+        "137": "Todos"
+      },
+      "productClusters": {
+        "137": "Todos"
+      },
+      "searchableClusters": {
+        "137": "Todos"
+      },
+      "categories": [
+        "/Bombas/Bomba Pressurizadora/",
+        "/Bombas/"
+      ],
+      "categoriesIds": [
+        "/4/86/",
+        "/4/"
+      ],
+      "link": "https://tactical.vtexcommercestable.com.br/bomba-pressurizadora-bfl120-intech-machine/p",
+      "Frequência": [
+        "60 HZ"
+      ],
+      "Chave de Controle": [
+        "3 Posições (\"Off\", \"Auto\" e \"Manual\")"
+      ],
+      "Pressão de Funcionamento": [
+        "9 mca"
+      ],
+      "Vazão Máxima": [
+        "1600 L/H"
+      ],
+      "Recalque de Sucção": [
+        "3/4\""
+      ],
+      "Temperatura": [
+        "Máxima da água 60ºC"
+      ],
+      "Modelo": [
+        "BF120"
+      ],
+      "Marca": [
+        "Intech Machine"
+      ],
+      "Tensão": [
+        "110v ou 220v"
+      ],
+      "Especificações": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "allSpecifications": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "description": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "items": [{
+          "itemId": "25",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332155"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155455",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155455-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155455/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155456",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155456-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155456/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155457",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155457-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155457/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "110V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "tactical",
+            "addToCartLink": "https://tactical.vtexcommercestable.com.br/checkout/cart/add?sku=25&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 110v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        },
+        {
+          "itemId": "26",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332162"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155458",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155458-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155458/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155459",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155459-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155459/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155460",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155460-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155460/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "220V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "tactical",
+            "addToCartLink": "https://tactical.vtexcommercestable.com.br/checkout/cart/add?sku=26&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 220v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        }
+      ]
+    },
+    {
+      "productId": "21",
+      "productName": "Bomba Pressurizadora BFL120 Intech Machine",
+      "brand": "Intech Machine",
+      "linkText": "bomba-pressurizadora-bfl120-intech-machine",
+      "productReference": "271112",
+      "categoryId": "86",
+      "productTitle": "Bomba Pressurizadora BFL120 Intech Machine",
+      "metaTagDescription": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "clusterHighlights": {
+        "137": "Todos"
+      },
+      "productClusters": {
+        "137": "Todos"
+      },
+      "searchableClusters": {
+        "137": "Todos"
+      },
+      "categories": [
+        "/Bombas/Bomba Pressurizadora/",
+        "/Bombas/"
+      ],
+      "categoriesIds": [
+        "/4/86/",
+        "/4/"
+      ],
+      "link": "https://tactical.vtexcommercestable.com.br/bomba-pressurizadora-bfl120-intech-machine/p",
+      "Frequência": [
+        "60 HZ"
+      ],
+      "Chave de Controle": [
+        "3 Posições (\"Off\", \"Auto\" e \"Manual\")"
+      ],
+      "Pressão de Funcionamento": [
+        "9 mca"
+      ],
+      "Vazão Máxima": [
+        "1600 L/H"
+      ],
+      "Recalque de Sucção": [
+        "3/4\""
+      ],
+      "Temperatura": [
+        "Máxima da água 60ºC"
+      ],
+      "Modelo": [
+        "BF120"
+      ],
+      "Marca": [
+        "Intech Machine"
+      ],
+      "Tensão": [
+        "110v ou 220v"
+      ],
+      "Especificações": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "allSpecifications": [
+        "Frequência",
+        "Chave de Controle",
+        "Pressão de Funcionamento",
+        "Vazão Máxima",
+        "Recalque de Sucção",
+        "Temperatura",
+        "Modelo",
+        "Marca",
+        "Tensão"
+      ],
+      "description": "<p><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A Bomba Pressurizadora BFL120 da Intech Machine é ideal para pressurização de casas, apartamentos, sistemas de ar condicionado, sistemas de aquecimento central a gás, pressurização de aquecedores solares e circulação de água. Ela proporciona um banho muito mais confortável e agradável através de um jato com maior pressão.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">A BFL120 é compacta e silenciosa. Seu fluxostato incorporado liga e desliga a bomba automaticamente quando a torneira, chuveiro ou outro ponto similar da casa é aberto ou fechado, melhorando o aproveitamento de água e economizando energia.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Acompanham a BFL120 dois adaptadores de 3/4 pol. para 1/2 pol., que podem ser ligados na entrada e na saída da bomba caso sua instalação residencial seja de 1/2 pol. Além disso, a BFL120 já vem com cabo elétrico e plug de tomada que tornam a instalação extremamente fácil e rápida.&nbsp;</span><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><br style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\"><span style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\" data-mce-style=\"font-family: Arial, Helvetica, Verdana, sans-serif; font-size: 14px;\">Eficiente, econômica e fácil de instalar. São muitas as razões para você ter esta excelente bomba pressurizadora da Intech Machine. Adquira já a sua!</span></p>",
+      "items": [{
+          "itemId": "25",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 110v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332155"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155455",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155455-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155455/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096382430000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155456",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155456-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155456/ab746992089c7bad7919030360be9f61.jpg?v=636688096396100000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155457",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155457-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155457/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096413600000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "110V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "tactical",
+            "addToCartLink": "https://tactical.vtexcommercestable.com.br/checkout/cart/add?sku=25&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 110v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        },
+        {
+          "itemId": "26",
+          "name": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "nameComplete": "Bomba Pressurizadora BFL120 Intech Machine - 220v",
+          "complementName": "Bomba Pressurizadora BFL120 Intech Machine",
+          "ean": "",
+          "referenceId": [{
+            "Key": "RefId",
+            "Value": "7898632332162"
+          }],
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "modalType": null,
+          "isKit": false,
+          "images": [{
+              "imageId": "155458",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155458-#width#-#height#/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000\" width=\"#width#\" height=\"#height#\" alt=\"5da4f7c27dd7f558a989edcc97245770\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155458/5da4f7c27dd7f558a989edcc97245770.jpg?v=636688096450570000",
+              "imageText": "5da4f7c27dd7f558a989edcc97245770"
+            },
+            {
+              "imageId": "155459",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155459-#width#-#height#/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000\" width=\"#width#\" height=\"#height#\" alt=\"ab746992089c7bad7919030360be9f61\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155459/ab746992089c7bad7919030360be9f61.jpg?v=636688096462070000",
+              "imageText": "ab746992089c7bad7919030360be9f61"
+            },
+            {
+              "imageId": "155460",
+              "imageLabel": null,
+              "imageTag": "<img src=\"~/arquivos/ids/155460-#width#-#height#/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000\" width=\"#width#\" height=\"#height#\" alt=\"d77e4aabee3d7b69aef914d86c34f702\" id=\"\" />",
+              "imageUrl": "http://tactical.vteximg.com.br/arquivos/ids/155460/d77e4aabee3d7b69aef914d86c34f702.jpg?v=636688096481670000",
+              "imageText": "d77e4aabee3d7b69aef914d86c34f702"
+            }
+          ],
+          "Voltagem": [
+            "220V"
+          ],
+          "variations": [
+            "Voltagem"
+          ],
+          "sellers": [{
+            "sellerId": "1",
+            "sellerName": "tactical",
+            "addToCartLink": "https://tactical.vtexcommercestable.com.br/checkout/cart/add?sku=26&qty=1&seller=1&sc=1&price=0&cv=7d3504d2c95adb091cad9ff8d068b7fe_&sc=1",
+            "sellerDefault": true,
+            "commertialOffer": {
+              "DeliverySlaSamplesPerRegion": {},
+              "Installments": [],
+              "DiscountHighLight": [],
+              "GiftSkuIds": [],
+              "Teasers": [],
+              "BuyTogether": [],
+              "Price": 0,
+              "ListPrice": 0,
+              "PriceWithoutDiscount": 0,
+              "RewardValue": 0,
+              "PriceValidUntil": null,
+              "AvailableQuantity": 0,
+              "Tax": 0,
+              "DeliverySlaSamples": [],
+              "GetInfoErrorMessage": "Code: withoutStock Status:error Message: O item Bomba Pressurizadora BFL120 Intech Machine - 220v não está mais disponível e foi removido do carrinho",
+              "CacheVersionUsedToCallCheckout": "7d3504d2c95adb091cad9ff8d068b7fe_"
+            }
+          }]
+        }
+      ]
+    }
+  ],
+  "product": {
+    "productId": 24,
+    "name": "Furadeira de Bancada 13mm 350w Gamma",
+    "salesChannel": "1",
+    "available": true,
+    "displayMode": "especificacao",
+    "dimensions": [
+      "Voltagem"
+    ],
+    "dimensionsInputType": {
+      "Voltagem": "Combo"
+    },
+    "dimensionsMap": {
+      "Voltagem": [
+        "110v",
+        "220v"
+      ]
+    },
+    "skus": [{
+        "sku": 29,
+        "skuname": "Furadeira de Bancada 13mm 350w Gamma - 110v",
+        "dimensions": {
+          "Voltagem": "110v"
+        },
+        "available": true,
+        "availablequantity": 99999,
+        "cacheVersionUsedToCallCheckout": "b9b0ac6f62ac1ef1717b3c4f276a435f_",
+        "listPriceFormated": "R$ 0,00",
+        "listPrice": 0,
+        "taxFormated": "R$ 0,00",
+        "taxAsInt": 0,
+        "bestPriceFormated": "R$ 459,00",
+        "bestPrice": 45900,
+        "installments": 1,
+        "installmentsValue": 45900,
+        "installmentsInsterestRate": 0,
+        "image": "http://tactical.vteximg.com.br/arquivos/ids/155463-292-292/02ef618e7c56ceff0a295853e2939fc7.jpg?v=636688119297100000",
+        "sellerId": "1",
+        "seller": "tactical",
+        "measures": {
+          "cubicweight": 1,
+          "height": 43,
+          "length": 23,
+          "weight": 11900,
+          "width": 34
+        },
+        "unitMultiplier": 1,
+        "rewardValue": 0
+      },
+      {
+        "sku": 30,
+        "skuname": "Furadeira de Bancada 13mm 350w Gamma - 220v",
+        "dimensions": {
+          "Voltagem": "220v"
+        },
+        "available": true,
+        "availablequantity": 99999,
+        "cacheVersionUsedToCallCheckout": "b9b0ac6f62ac1ef1717b3c4f276a435f_",
+        "listPriceFormated": "R$ 0,00",
+        "listPrice": 0,
+        "taxFormated": "R$ 0,00",
+        "taxAsInt": 0,
+        "bestPriceFormated": "R$ 459,00",
+        "bestPrice": 45900,
+        "installments": 1,
+        "installmentsValue": 45900,
+        "installmentsInsterestRate": 0,
+        "image": "http://tactical.vteximg.com.br/arquivos/ids/155468-292-292/3a9d7a22f42db9b9cd7d0fb5ce3eb71c.jpg?v=636688120649930000",
+        "sellerId": "1",
+        "seller": "tactical",
+        "measures": {
+          "cubicweight": 1,
+          "height": 43,
+          "length": 23,
+          "weight": 11900,
+          "width": 34
+        },
+        "unitMultiplier": 1,
+        "rewardValue": 0
+      }
+    ]
+  }
+}

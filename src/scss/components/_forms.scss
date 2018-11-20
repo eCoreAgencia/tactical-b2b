@@ -1,0 +1,32 @@
+.form__default__style {
+    border: none;
+
+    &__main {
+        border: none;
+        margin-bottom: 20px;
+
+        &:last-of-type {
+            margin-bottom: 0;
+        }
+
+         &__tlt {
+             display: block;
+             font-size: 14px;
+             color: #372527;
+             font-weight: 500;
+             line-height: 25px;
+             font-family: "Roboto";
+         }
+
+        &__field {
+            width: 100%;
+            font-size: 15px;
+            color: #6a6157;
+            font-weight: 400;
+            line-height: 18px;
+            padding: 10px 10px;
+            font-family: Roboto;
+            border: 2px solid #dadad8;
+        }
+    }
+}

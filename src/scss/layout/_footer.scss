@@ -1,0 +1,195 @@
+.footer {
+	@extend %background-color-black--light;
+
+	@include mq("tablet") {
+		padding: 100px 0 30px;
+	}
+
+	&__inner {
+		@extend .container;
+		@extend %display-flex;
+		@extend %flex-wrap-wrap;
+		@extend %flex-justify-content-space-between;
+
+		@include mq(mobile) {
+			padding: 0;
+		}
+	}
+
+	&__column {
+		@include mq(mobile) {
+			width: 100%;
+			//display: none;
+			h3 {
+				position: relative;
+				&:after {
+					content: '';
+					position: absolute;
+					right: 30px;
+					display: inline-block;
+					width: 12px;
+					height: 12px;
+					border: solid #e75300;
+					border-width: 2px 2px 0 0;
+					border-radius: 2px;
+					-webkit-transform: rotate(45deg);
+					-ms-transform: rotate(45deg);
+					transform: rotate(134deg);
+				}
+			}
+			.social-media {
+				padding: 0 19px;
+			}
+			.menu {
+				display: none;
+				&.active {
+					display: block;
+				}
+			}
+		}
+
+		@include mq("tablet") {
+			max-width: 272px;
+			display: block;
+			.social-media {
+				padding: 0;
+			}
+			h3 {
+				&:after {
+					display: none;
+				}
+			}
+		}
+
+		.menu {
+			@include mq(mobile) {
+				margin: 0;
+				padding: 20px 0;
+				background-color: #3a3832;
+			}
+
+			@include mq("tablet") {
+				padding: 0;
+				background-color: transparent;
+				display: inline-block;
+			}
+		}
+
+		.menu__item {
+			margin: 10px 0;
+		}
+
+		.menu__link {
+			@extend %color-white;
+			font-weight: 300;
+			@include font-size(16px);
+			padding: 10px 0 10px 55px;
+			display: block;
+
+			@include mq("tablet") {
+				padding: 0;
+				@include font-size(14px);
+
+			}
+
+			&:hover {
+				@extend %color-primary;
+			}
+
+		}
+
+		.menu__item--highlight {
+			.menu__link {
+				@extend %color-primary;
+			}
+		}
+	}
+
+	&__title {
+		@extend %color-white;
+		@extend %font-family-unitedsans;
+		@extend %text-transform-uppercase;
+
+
+		@include mq(mobile) {
+			@include font-size(20px);
+			font-weight: 800;
+			margin: 0;
+			padding: 20px;
+		}
+
+		@include mq("tablet") {
+			padding: 0;
+			margin-bottom: 15px;
+
+
+		}
+
+	}
+
+	&__brand {
+
+		&-description,
+		&-copyright {
+			color: #bab1a8;
+			@extend %text-align-center;
+			@include font-size(14px);
+			padding: 20px 25px;
+
+			@include mq("tablet") {
+				text-align: left;
+				@include font-size(12px);
+				padding: 0;
+			}
+		}
+	}
+
+
+
+	&__logo {
+		@extend %display-flex;
+		@extend %flex-justify-content-center;
+
+		@include mq("tablet") {
+			justify-content: flex-start;
+		}
+	}
+
+	&__secure {
+		@extend %display-flex;
+		@extend %flex-justify-content-space-around;
+		padding: 20px 35px;
+
+		img+img {
+			margin-left: 10px;
+		}
+
+		@include mq("tablet") {
+			padding: 0;
+			justify-content: flex-start;
+
+		}
+	}
+
+
+}
+
+
+.social-media {
+	@extend %display-flex;
+	list-style: none;
+	margin-bottom: 30px;
+
+	&__item {
+		margin: 10px;
+
+		&:first-child {
+			margin-left: 0;
+		}
+	}
+
+	i {
+		color: #6a6157;
+		@include font-size(30px);
+	}
+}

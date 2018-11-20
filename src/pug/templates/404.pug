@@ -1,0 +1,22 @@
+extends ../layouts/default.pug
+
+block vars
+	- var pageTitle = '404'
+	- var bodyClass = 'not-found'
+
+block content
+	section.section__not-found
+		.banner__inner.banner__desktop
+			+vtex-controller('<vtex:contentPlaceHolder id="Banner NotFound"/>')
+				.box-banner
+					a(href="")
+						img(src="/arquivos/notfound.png")/
+		.banner__inner.banner__mobile
+			+vtex-controller('<vtex:contentPlaceHolder id="Banner NotFound Mobile"/>')
+				.box-banner
+					a(href="")
+						img(src="/arquivos/notfoundmobile.png")/
+		.not-found__content
+			h2.not-found__tlt 404
+			p.not-found__txt Desculpe, não encontramos a página que você estava procurando.
+			a(href="/").not-found__button Voltar Para Home

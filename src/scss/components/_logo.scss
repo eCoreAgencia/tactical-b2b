@@ -1,0 +1,11 @@
+.logo {
+  &__brand {
+    margin: 0;
+    font-size: 0;
+    max-width: 250px;
+  }
+
+  &__link {
+    display: block;
+  }
+}

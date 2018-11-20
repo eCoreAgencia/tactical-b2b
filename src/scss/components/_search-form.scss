@@ -1,0 +1,26 @@
+.search-form {
+	&__result {
+		@extend %display-none;
+	}
+
+	&__control {
+		@extend %display-flex;
+		@extend %background-color-white;
+		border: 1px solid #dadad8;
+		height: 35px;
+	}
+
+	&__input {
+		@extend %no-border;
+		padding: 5px;
+		color: #c0c0c0;
+		@include font-size(14px);
+
+	}
+
+	.btn--submit {
+		@extend %no-border;
+		@extend %color-primary;
+		background-color: transparent;
+	}
+}

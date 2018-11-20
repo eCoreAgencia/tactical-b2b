@@ -1,0 +1,15 @@
+section.section__page.section__newsletter.texture-bg--3
+	.container
+		.newsletter.grid.grid--2
+			.newsletter__call
+				h2.newsletter__title Receba Todas as Novidades
+				p.newsletter__text Cadastre-se para receber as notícias da 511
+			form.newsletter__form
+				input.newsletter__input(type="email" , placeholder= "Insira seu e-mail...")
+				button.newsletter__btn
+					include ../../svg/form-arrow.svg
+				.newsletter__success
+					include ../../svg/ns-success.svg
+					.newsletter__success-msg Agora você receberá em seu e-mail as novidades da 511.
+			.newsletter__fail
+				.newsletter__fail-msg Insira um e-mail válido.

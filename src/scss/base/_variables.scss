@@ -1,0 +1,103 @@
+// =========================================================
+//
+//  PROJECT SCSS VARIABLES
+//  ---------
+//
+//  Pay attention on prefixes when adding new variables
+//
+//  Colors: $c-
+//  Fonts: $f-
+//  Breakpoint: $b-
+//  Space (margin and padding): $s-
+//  Transition: $t-
+//
+//  Sizes:
+//  xs: extra small
+//  sm: small
+//  md: medium
+//  lg: large
+//  xl: extra large
+//  hg: huge
+//  xh: extra huge
+//
+// =========================================================
+
+
+//breakpoint
+$b-sm-min: 320px; //mobile min
+$b-sm-max: 767px; //mobile max
+$b-md-min: 768px; //tablet min
+$b-md-max: 1024px; //tablet max
+$b-lg-min: 1025px; //desktop min
+$b-lg-max: 1366px; //desktop max
+
+
+//color
+$c-black: #000;
+$c-white: #fff;
+$c-red: #f00;
+$c-gray: #c0c0c0;
+$c-green: #0f0;
+$c-orange: #e75300;
+$c-primary: $c-orange;
+
+
+
+$colors: (white:(base: $c-white,
+),
+black:(base: $c-black,
+light: #211e14),
+gray: (base: $c-gray,
+light: #f2f2f2,
+lighter: #dadad8,
+dark: #9b9b9b),
+error: (base: $c-red,
+light: lighten($c-red, 25%)),
+success: (base: $c-green,
+light: lighten($c-green, 25%)),
+primary: (base: $c-primary,
+dark: darken($c-primary, 5%),
+invert: invert($c-primary),
+));
+
+$fonts: (roboto: 'Roboto',
+trumpgothicwest: 'Trump Gothic West',
+trumpgothicpro: 'Trump Gothic Pro',
+unitedsans: 'United Sans',
+unitedsanscondensed: 'United Sans Condensed',
+unitedsansextra: 'United Sans Extra',
+unitedsanssemicondensed: 'United Sans Semi Condensed',
+unitedsanssemiextra: 'United Sans Semi Extra',
+primary: 'Roboto'
+
+);
+
+
+
+
+$font-sizes: (xs: 10px,
+sm: 12px,
+md: 14px,
+sd: 16px,
+lg: 18px,
+xl: 36px,
+hg: 42px,
+xh: 72px);
+
+
+
+
+
+
+
+$grid-columns: 12 !default;
+$grid-gutter-width: 20px !default;
+$page-container: 1100px !default;
+
+
+$breakpoints: ("mobile": 320px,
+"tablet": 768px,
+"tablet-wide": 1024px,
+"container": 1100px,
+"desktop": 1248px,
+"desktop-wide": 1440px);

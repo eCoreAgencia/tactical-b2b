@@ -1,0 +1,21 @@
+extends ../layouts/empty.pug
+
+block content
+  - var slugify = (string) => {
+  -    const a = 'àáäâãåèéëêìíïîòóöôùúüûñçßÿœæŕśńṕẃǵǹḿǘẍźḧ·/_,:;'
+  -    const b = 'aaaaaaeeeeiiiioooouuuuncsyoarsnpwgnmuxzh------'
+  -    const p = new RegExp(a.split('').join('|'), 'g')
+  -    return string.toString().toLowerCase()
+  -      .replace(/\s+/g, '-') // Replace spaces with
+  -      .replace(p, c => b.charAt(a.indexOf(c))) // Replace special characters
+  -      .replace(/&/g, '-and-') // Replace & with ‘and’
+  -      .replace(/[^\w\-]+/g, '') // Remove all non-word characters
+  -      .replace(/\-\-+/g, '-') // Replace multiple — with single -
+  -      .replace(/^-+/, '') // Trim — from start of text .replace(/-+$/, '') // Trim — from end of text
+  -  }
+  each category in ["Ferramentas Eletricas","Ferramentas Manuais", "Iluminacao", "Bombas", "Material Eletrico", "Construcao Civil", "Ferragens e seguranca", "Casa e Jardim", "Epi", "Automotivo", "Compressores", "Quimicos", "Solda", "Hidraulica"]
+    div(id=slugify(category))
+      +vtex-controller('<vtex:contentPlaceHolder id="#{category}" />')
+        .box-banner
+            a(href="")
+                img(src="http://placeimg.com/400/289/arch")/

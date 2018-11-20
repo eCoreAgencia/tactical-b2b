@@ -1,0 +1,384 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
+
+/* TRUMP GOTHIC PRO */
+
+@font-face {
+  font-family: "Trump Gothic Pro";
+  src: url('/arquivos/TrumpGothicPro-Bold.woff.css') format('woff'),
+    url('/arquivos/TrumpGothicPro-Bold.eot.css') format('eot');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Trump Gothic Pro";
+  src: url('/arquivos/TrumpGothicPro-BoldItalic.woff.css') format('woff'),
+    url('/arquivos/TrumpGothicPro-BoldItalic.eot.css') format('eot');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Trump Gothic Pro";
+  src: url('/arquivos/TrumpGothicPro-Italic.woff.css') format('woff'),
+    url('/arquivos/TrumpGothicPro-Italic.eot.css') format('eot');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Trump Gothic Pro";
+  src: url('/arquivos/TrumpGothicPro-Medium.woff.css') format('woff'),
+    url('/arquivos/TrumpGothicPro-Medium.eot.css') format('eot');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Trump Gothic Pro";
+  src: url('/arquivos/TrumpGothicPro-MediumItalic.woff.css') format('woff'),
+    url('/arquivos/TrumpGothicPro-MediumItalic.eot.css') format('eot');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Trump Gothic Pro";
+  src: url('/arquivos/TrumpGothicPro-Regular.woff.css') format('woff'),
+    url('/arquivos/TrumpGothicPro-Regular.eot.css') format('eot');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/* TRUMP GOTHIC WEST */
+
+@font-face {
+  font-family: 'Trump Gothic West';
+  src: url('/arquivos/trump_gothic_west_bold_it-webfont.woff.css') format('woff'),
+    url('/arquivos/trump_gothic_west_bold_it-webfont.woff2.css') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Trump Gothic West';
+  src: url('/arquivos/trump_gothic_west_bold-webfont.woff.css') format('woff'),
+    url('/arquivos/trump_gothic_west_bold_webfont.woff2.css') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Trump Gothic West';
+  src: url('/arquivos/trump_gothic_west_italic-webfont.woff.css') format('woff'),
+    url('/arquivos/trump_gothic_west_italic-webfont.woff2.css') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Trump Gothic West';
+  src: url('/arquivos/trump_gothic_west_medium_it-webfont.woff.css') format('woff'),
+    url('/arquivos/trump_gothic_west_medium_it-webfont.woff2.css') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Trump Gothic West';
+  src: url('/arquivos/trump_gothic_west_medium-webfont.woff.css') format('woff'),
+    url('/arquivos/trump_gothic_west_medium-webfont.woff2.css') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Trump Gothic West';
+  src: url('/arquivos/trump_gothic_west.woff.css') format('woff'),
+    url('/arquivos/trump_gothic_west.woff2.css') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* UNITED SANS */
+
+@font-face {
+  font-family: 'United Sans';
+  src: url('/arquivos/UnitedSansReg-Medium.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansReg-Medium.woff.css') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans';
+  src: url('/arquivos/UnitedSansReg-Bold.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansReg-Bold.woff.css') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Condensed';
+  src: url('/arquivos/UnitedSansCond-Black.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansCond-Black.woff.css') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Extra';
+  src: url('/arquivos/UnitedSansExt-Heavy.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansExt-Heavy.woff.css') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Semi Extra';
+  src: url('/arquivos/UnitedSansSemiExt-Black.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansSemiExt-Black.woff.css') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans';
+  src: url('/arquivos/UnitedSansReg-Heavy.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansReg-Heavy.woff.css') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Semi Extra';
+  src: url('/arquivos/UnitedSansSemiExt-Light.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansSemiExt-Light.woff.css') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Semi Extra';
+  src: url('/arquivos/UnitedSansSemiExt-Bold.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansSemiExt-Bold.woff.css') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Extra';
+  src: url('/arquivos/UnitedSansExt-Medium.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansExt-Medium.woff.css') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans';
+  src: url('/arquivos/UnitedSansReg-Light.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansReg-Light.woff.css') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Semi Condensed';
+  src: url('/arquivos/UnitedSansSemiCond-Black.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansSemiCond-Black.woff.css') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Extra';
+  src: url('/arquivos/UnitedSansExt-Bold.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansExt-Bold.woff.css') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Semi Condensed';
+  src: url('/arquivos/UnitedSansSemiCond-Bold.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansSemiCond-Bold.woff.css') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Condensed';
+  src: url('/arquivos/UnitedSansCond-Thin.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansCond-Thin.woff.css') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Condensed';
+  src: url('/arquivos/UnitedSansCond-Light.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansCond-Light.woff.css') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans';
+  src: url('/arquivos/UnitedSansReg-Stencil.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansReg-Stencil.woff.css') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Condensed';
+  src: url('/arquivos/UnitedSansCond-Bold.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansCond-Bold.woff.css') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Semi Extra';
+  src: url('/arquivos/UnitedSansSemiExt-Medium.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansSemiExt-Medium.woff.css') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans';
+  src: url('/arquivos/UnitedSansReg-Thin.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansReg-Thin.woff.css') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Semi Condensed';
+  src: url('/arquivos/UnitedSansSemiCond-Light.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansSemiCond-Light.woff.css') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Extra';
+  src: url('/arquivos/UnitedSansExt-Stencil.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansExt-Stencil.woff.css') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Semi Condensed';
+  src: url('/arquivos/UnitedSansSemiCond-Medium.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansSemiCond-Medium.woff.css') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Semi Extra';
+  src: url('/arquivos/UnitedSansSemiExt-Heavy.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansSemiExt-Heavy.woff.css') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Semi Condensed';
+  src: url('/arquivos/UnitedSansSemiCond-Heavy.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansSemiCond-Heavy.woff.css') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans';
+  src: url('/arquivos/UnitedSansExt-Black.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansExt-Black.woff.css') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Semi Extra';
+  src: url('/arquivos/UnitedSansSemiExt-Stencil.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansSemiExt-Stencil.woff.css') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Semi Condensed';
+  src: url('/arquivos/UnitedSansSemiCond-Thin.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansSemiCond-Thin.woff.css') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Semi Extra';
+  src: url('/arquivos/UnitedSansSemiExt-Thin.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansSemiExt-Thin.woff.css') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Condensed';
+  src: url('/arquivos/UnitedSansCond-Medium.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansCond-Medium.woff.css') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Extra';
+  src: url('/arquivos/UnitedSansExt-Light.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansExt-Light.woff.css') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Condensed';
+  src: url('/arquivos/UnitedSansCond-Stencil.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansCond-Stencil.woff.css') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Semi Condensed';
+  src: url('/arquivos/UnitedSansSemiCond-Stencil.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansSemiCond-Stencil.woff.css') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Extra';
+  src: url('/arquivos/UnitedSansExt-Thin.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansExt-Thin.woff.css') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans';
+  src: url('/arquivos/UnitedSansReg-Black.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansReg-Black.woff.css') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'United Sans Condensed';
+  src: url('/arquivos/UnitedSansCond-Heavy.woff2.css') format('woff2'),
+    url('/arquivos/UnitedSansCond-Heavy.woff.css') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}

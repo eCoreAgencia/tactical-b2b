@@ -1,7 +1,8 @@
 class Login {
     constructor() {
         this.loginUser();
-        this.insertMensager(mensager, classname, inject);
+        //this.insertMensager(mensager, classname, inject);
+        this.buttonActions();
     }
 
     insertMensager(mensager, classname, inject) {
@@ -25,21 +26,52 @@ class Login {
                 const result = data;
 
                 if(result.length == 0) {
-                    this.insertMensager("Usuario não encontrado !", "not-regitered--red", ".contentForm");
+                    let alertLogin  =  "<div class='not-regitered--red'><p>Usuario não encontrado </p></div>";
+                    $('.contentForm').append(alertLogin);
+                    setTimeout(function() {
+                        $('.not-regitered--red').remove();
+                    }, 5000);
                 } else {
                     if(result[0].ativo) {
+                        console.log('entro')
+                        localStorage.setItem("userEcore", true);
+                        localStorage.setItem("idUserEcore", result[0].id);
 
+                        window.location = "/";
                     } else {
-                        alertLogin = "\
-                        <div class='not-regitered'>\
-                            <p>Usuario não encontrado !</p>\
+                        let alertLogin = "\
+                        <div class='not-regitered--red'>\
+                            <p>Você já esta cadastro, agora e só esperar a ativação do seu cadastro!</p>\
                         </div>";
 
                         $('.contentForm').append(alertLogin);
+                        setTimeout(function() {
+                            $('.not-regitered--red').remove();
+                        }, 5000);
                     }
                 }
             });
         });
+    }
+
+    buttonActions() {
+        $('.createaccount').on('click', function(e) {
+            e.preventDefault();
+            $(this).parents('.modalLogin__box--item').css('display','none');
+            $('#searchCnpj').fadeIn();
+        })
+
+        $('.backOption').on('click', function(e) {
+            e.preventDefault();
+            $(this).parents('.modalLogin__box--item').css('display','none');
+            $('#optionAcess').fadeIn();
+        })
+
+        $('.hasaccount').on('click', function(e) {
+            e.preventDefault();
+            $(this).parents('.modalLogin__box--item').css('display','none');
+            $('#login').fadeIn();
+        })
     }
 }
 

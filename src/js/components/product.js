@@ -138,7 +138,21 @@ $(document).ready(() => {
                 }
             } else {
                 $('.product__main .product__info').removeClass('product__info--fixed');
-            }
+			}
+			// var nav = $('.product__info');
+ 
+			// $(window).scroll(function () {
+			// 	if ($(document).scrollTop() > 115) {
+			// 		if ($(this).scrollTop() >= $('main .container').first().height() - 550) {
+			// 			nav.removeClass("product__info--fixed");
+			// 		} else {
+			// 			console.log('teste')
+			// 			nav.addClass("product__info--fixed");
+			// 		}
+			// 	} else {
+			// 		nav.removeClass("product__info--fixed");
+			// 	}
+			// });
         }
         
         if (!isMobile.any()) {

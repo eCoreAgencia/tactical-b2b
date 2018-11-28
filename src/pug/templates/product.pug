@@ -37,83 +37,87 @@ block content
                     .product__code
                         span SKU:
                         +vtex-controller('<vtex.cmc:skuReference/>')
-                    .product__price
-                        .price
-                            +vtex-controller('<vtex.cmc:skuPrice />')
-                                .plugin-preco
-                                    .productPrice
-                                        p.descricao-preco
-                                            em.valor-de.price-list-price(style='display: block;')
-                                                | De:
-                                                strong.skuListPrice R$ 24,99
-                                            em.valor-por.price-best-price(style='display: block;')
-                                                | Por:
-                                                strong.skuBestPrice R$ 639,90
-                                            em.valor-dividido.price-installments(style='display: block;')
-                                                span
+                    .contentLogin(class="user-off")
+                        a(href="/minha-conta.html" class="product__login") Identifique-se para comprar
+
+                    .infoProductbox(class="user-logged")
+                        .product__price
+                            .price
+                                +vtex-controller('<vtex.cmc:skuPrice />')
+                                    .plugin-preco
+                                        .productPrice
+                                            p.descricao-preco
+                                                em.valor-de.price-list-price(style='display: block;')
+                                                    | De:
+                                                    strong.skuListPrice R$ 24,99
+                                                em.valor-por.price-best-price(style='display: block;')
+                                                    | Por:
+                                                    strong.skuBestPrice R$ 639,90
+                                                em.valor-dividido.price-installments(style='display: block;')
                                                     span
-                                                        | ou
-                                                        label.skuBestInstallmentNumber
-                                                            | 12
-                                                            span.x x
-                                                        |  de
-                                                    strong
-                                                        label.skuBestInstallmentValue R$ 53,32
-                                        p.preco-a-vista.price-cash(style='display: block;')
-                                            | Preço a vista:
-                                            strong.skuPrice R$ 639,90
-                    .product__skus
-                        #dd.wrapper-dropdown-1(tabindex='1')
-                            span Gender
-                            ul.dropdown
-                                li
-                                    a(href='#') Male
-                                li
-                                    a(href='#') Female
-                        +vtex-controller('<vtex.cmc:skuRichSelection changeImage="1" />')
-                            .sku-selector-container.sku-selector-container-0
-                                ul.topic.Voltagem.productid-21.numopt-2
-                                    li.specification Voltagem
-                                    li.select.skuList.item-dimension-Voltagem
-                                        span.group_0
-                                            input#21_Voltagem_0.skuselector-specification-label.input-dimension-Voltagem.sku-selector.skuespec_110v.change-image(type='radio', name='21_Voltagem', dimension='Voltagem', data-value='110V', data-dimension='Voltagem', value='110V', specification='110v')
-                                            label.dimension-Voltagem.espec_0.skuespec_110v.skuespec_Voltagem_opcao_110V.skuespec_Voltagem_opcao_110v(for='21_Voltagem_0') 110V
-                                            input#21_Voltagem_1.skuselector-specification-label.input-dimension-Voltagem.sku-selector.skuespec_220v.change-image(type='radio', name='21_Voltagem', dimension='Voltagem', data-value='220V', data-dimension='Voltagem', value='220V', specification='220v')
-                                            label.dimension-Voltagem.espec_0.skuespec_220v.skuespec_Voltagem_opcao_220V.skuespec_Voltagem_opcao_220v(for='21_Voltagem_1') 220V
-                    .product__action
-                        .product__action-top
-                            .product__qtd
-                                button.button.button--minus +
-                                input.product__qtd-value(type="text" value="1")/
-                                button.button.button--plus -
-                            .product__buy
-                                button.btn.btn--buy Adicionar ao Carrinho
-                        .product__action-bottom
-                            +vtex-controller('<vtex.cmc:BuyButton/>')
-                                a.buy-button.buy-button-ref(target='_top', href="javascript:alert('Por favor, selecione o modelo desejado.');", style='display:block')
-                                    | Comprar
-                                .portal-notify-me-ref
-                                    .notifyme.sku-notifyme(style='display: none;')
-                                        .notifyme-title-div(style='display: none;')
-                                            h3.notifymetitle.notifyme-title Avise-Me
-                                        form(action='/no-cache/AviseMe.aspx', style='display: none;')
-                                            fieldset.sku-notifyme-form.notifyme-form
-                                                p
-                                                    | Para ser avisado da disponibilidade deste Produto, basta preencher os campos abaixo.
-                                                input#notifymeClientName.sku-notifyme-client-name.notifyme-client-name(placeholder='Digite seu nome...', size='20', type='text', name='notifymeClientName', style='display: none;')
-                                                input#notifymeClientEmail.sku-notifyme-client-email.notifyme-client-email(placeholder='Digite seu e-mail...', size='20', type='text', name='notifymeClientEmail', style='display: none;')
-                                                input#notifymeButtonOK.btn-ok.sku-notifyme-button-ok.notifyme-button-ok(value='ok', type='button', name='notifymeButtonOK', style='display: none;')
-                                                input.sku-notifyme-skuid.notifyme-skuid(type='hidden', name='notifymeIdSku', value='', style='display: none;')
-                                        p.notifyme-loading-message(style='display: none')
-                                            span.sku-notifyme-loading.notifyme-loading Carregando...
-                                        fieldset.success(style='display:none;')
-                                            label
-                                                em
-                                                    span.sku-notifyme-success.notifyme-success
-                                                        | Cadastrado com sucesso, assim que o produto for disponibilizado você receberá um email avisando.
-                                        fieldset.error(style='display: none')
-                                            label
-                                                span.sku-notifyme-error.notifyme-error
+                                                        span
+                                                            | ou
+                                                            label.skuBestInstallmentNumber
+                                                                | 12
+                                                                span.x x
+                                                            |  de
+                                                        strong
+                                                            label.skuBestInstallmentValue R$ 53,32
+                                            p.preco-a-vista.price-cash(style='display: block;')
+                                                | Preço a vista:
+                                                strong.skuPrice R$ 639,90
+                        .product__skus
+                            #dd.wrapper-dropdown-1(tabindex='1')
+                                span Gender
+                                ul.dropdown
+                                    li
+                                        a(href='#') Male
+                                    li
+                                        a(href='#') Female
+                            +vtex-controller('<vtex.cmc:skuRichSelection changeImage="1" />')
+                                .sku-selector-container.sku-selector-container-0
+                                    ul.topic.Voltagem.productid-21.numopt-2
+                                        li.specification Voltagem
+                                        li.select.skuList.item-dimension-Voltagem
+                                            span.group_0
+                                                input#21_Voltagem_0.skuselector-specification-label.input-dimension-Voltagem.sku-selector.skuespec_110v.change-image(type='radio', name='21_Voltagem', dimension='Voltagem', data-value='110V', data-dimension='Voltagem', value='110V', specification='110v')
+                                                label.dimension-Voltagem.espec_0.skuespec_110v.skuespec_Voltagem_opcao_110V.skuespec_Voltagem_opcao_110v(for='21_Voltagem_0') 110V
+                                                input#21_Voltagem_1.skuselector-specification-label.input-dimension-Voltagem.sku-selector.skuespec_220v.change-image(type='radio', name='21_Voltagem', dimension='Voltagem', data-value='220V', data-dimension='Voltagem', value='220V', specification='220v')
+                                                label.dimension-Voltagem.espec_0.skuespec_220v.skuespec_Voltagem_opcao_220V.skuespec_Voltagem_opcao_220v(for='21_Voltagem_1') 220V
+                        .product__action
+                            .product__action-top
+                                .product__qtd
+                                    button.button.button--minus +
+                                    input.product__qtd-value(type="text" value="1")/
+                                    button.button.button--plus -
+                                .product__buy
+                                    button.btn.btn--buy Adicionar ao Carrinho
+                            .product__action-bottom
+                                +vtex-controller('<vtex.cmc:BuyButton/>')
+                                    a.buy-button.buy-button-ref(target='_top', href="javascript:alert('Por favor, selecione o modelo desejado.');", style='display:block')
+                                        | Comprar
+                                    .portal-notify-me-ref
+                                        .notifyme.sku-notifyme(style='display: none;')
+                                            .notifyme-title-div(style='display: none;')
+                                                h3.notifymetitle.notifyme-title Avise-Me
+                                            form(action='/no-cache/AviseMe.aspx', style='display: none;')
+                                                fieldset.sku-notifyme-form.notifyme-form
+                                                    p
+                                                        | Para ser avisado da disponibilidade deste Produto, basta preencher os campos abaixo.
+                                                    input#notifymeClientName.sku-notifyme-client-name.notifyme-client-name(placeholder='Digite seu nome...', size='20', type='text', name='notifymeClientName', style='display: none;')
+                                                    input#notifymeClientEmail.sku-notifyme-client-email.notifyme-client-email(placeholder='Digite seu e-mail...', size='20', type='text', name='notifymeClientEmail', style='display: none;')
+                                                    input#notifymeButtonOK.btn-ok.sku-notifyme-button-ok.notifyme-button-ok(value='ok', type='button', name='notifymeButtonOK', style='display: none;')
+                                                    input.sku-notifyme-skuid.notifyme-skuid(type='hidden', name='notifymeIdSku', value='', style='display: none;')
+                                            p.notifyme-loading-message(style='display: none')
+                                                span.sku-notifyme-loading.notifyme-loading Carregando...
+                                            fieldset.success(style='display:none;')
+                                                label
+                                                    em
+                                                        span.sku-notifyme-success.notifyme-success
+                                                            | Cadastrado com sucesso, assim que o produto for disponibilizado você receberá um email avisando.
+                                            fieldset.error(style='display: none')
+                                                label
+                                                    span.sku-notifyme-error.notifyme-error
         section.section__page.section__product-bottom
             .product__description
                 section.section__title

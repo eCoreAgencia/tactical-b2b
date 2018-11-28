@@ -30,6 +30,21 @@
 
 
 .product {
+	&__login {
+		width: 100%;
+		display: block;
+		padding: 10px;
+		margin-top: 50px;
+		text-align: center;
+		background: #e95600;
+		color: #fff;
+		transition: .3s ease;
+		&:hover {
+			text-decoration: none;
+			color: #fff;
+			background: #ff7c2f;
+		}
+	}
 	&--shelf {
 		&:hover {
 			outline: #f2f2f2;
@@ -58,6 +73,23 @@
 		.btn--buy {
 			width: 100%;
 			padding: 16px 32px;
+			text-align: center;
+
+			&.btn__login {
+				display: block;
+				padding: 16px 53px;
+				text-align: right;
+				font-size: 14px;
+				font-weight: normal;
+				font-family: Arial;
+				letter-spacing: 1px;
+				span {
+					display: block;
+					width: 100%;
+					font-weight: 400;
+					font-size: 12px;
+				}
+			}
 
 			&.btn-list {
 				display: none;
